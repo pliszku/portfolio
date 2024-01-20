@@ -6,7 +6,7 @@ date: 2016-11-05T18:25:22+05:30
 image: /img/portfolio/apple-vision-pro-647f4eee18bad.jpeg
 weight: 0
 ---
-Even the all-powerful po has  no control about the blind texts it is an almost unorthographic life. One day we might be together thank you. Blee
+Even the all-powerful po has  no control about the blind texts it is an almost unorthographic life. One day we might be together thank you. Bleech
 
 <!--more-->
 
