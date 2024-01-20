@@ -1,8 +1,5 @@
 baseURL = '/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+[markup.goldmark.renderer]
+unsafe= true
