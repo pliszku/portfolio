@@ -838,11 +838,8 @@ a:active {
   text-overflow: ellipsis;
 }
 .box-masonry h4 {
-  font-size: 16px;
+  font-size: 20px;
   line-height: 1.5;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
 }
 .box-masonry h4 a {
   color: #000;
@@ -1583,7 +1580,7 @@ STYLE SWITCHER FOR DEMO
 }
 /* scaffolding */
 body {
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-family: "Ubuntu";
   font-size: 16px;
   line-height: 1.55;
   color: #000000;
@@ -1948,7 +1945,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-family: "Ubuntu";
   font-weight: 700;
   line-height: 1.2;
   color: #000000;
