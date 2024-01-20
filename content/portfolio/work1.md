@@ -3,7 +3,7 @@ showonlyimage: false
 draft: false
 title: Testing Work
 date: 2016-11-05T18:25:22+05:30
-image: /static/img/portfolio/a4-paper.jpg
+image: /img/portfolio/apple-vision-pro-647f4eee18bad.jpeg
 weight: 0
 ---
 
