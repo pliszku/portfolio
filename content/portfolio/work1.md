@@ -1,9 +1,9 @@
 ---
 showonlyimage: false
 draft: false
-title: Work 1
+title: Testing Work
 date: 2016-11-05T18:25:22+05:30
-image: img/portfolio/a4-paper.jpg
+image: /static/img/portfolio/image-2024-01-18t164301.612-min.png
 weight: 0
 ---
 
