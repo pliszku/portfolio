@@ -1,6 +1,6 @@
 ---
 draft: false
-image: /static/img/portfolio/apple-vision-pro-647f4eee18bad.jpeg
+image: /img/portfolio/image-2024-01-18t164301.612-min.png
 showonlyimage: true
 title: Item with image 1
 date: 2016-11-05T20:22:08+05:30
