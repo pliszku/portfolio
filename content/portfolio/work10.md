@@ -4,13 +4,13 @@ image: /img/portfolio/image-2024-01-18t164301.612-min.png
 showonlyimage: true
 title: Item with image 1
 date: 2016-11-05T20:22:08+05:30
+author: Mateusz Pliszka
+authorimg: /img/authors/5f4fb33ce70c159b2ee6c6e9_matt.jpeg
 weight: 10
 ---
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia.
 
 <!--more-->
-
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
 
 A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
 

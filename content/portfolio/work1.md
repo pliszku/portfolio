@@ -4,6 +4,7 @@ draft: false
 title: Testing Work
 date: 2016-11-05T18:25:22+05:30
 image: /img/portfolio/apple-vision-pro-647f4eee18bad.jpeg
+author: Mateusz Pliszka
 weight: 0
 ---
 Even the all-powerful po has  no control about the blind texts it is an almost unorthographic life. One day we might be together thank you. Blee
@@ -17,6 +18,7 @@ Far far away, behind the word mountains, far from the countries Vokalia and Cons
 A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
 
 1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+ 	* Supoint 1.1
 2. Aliquam tincidunt mauris eu risus.
 
 > The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
@@ -28,6 +30,8 @@ Even the all-powerful Pointing has no control about the blind texts it is an alm
 The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
 
 * Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+	* Subpoint
 * Aliquam tincidunt mauris eu risus.
+	* Subpoint
 
 When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
