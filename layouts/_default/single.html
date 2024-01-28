@@ -4,8 +4,17 @@
     <div class="col-lg-8">
       <div class="content-column-content">
           <h1>{{ .Title }}</h1>
-          <img src="{{.Params.authorimg}}" alt="" class="img-author">
-          {{ .Params.author }}
+          <!-- Using flex container for the layout -->
+        <div class="author-container">
+          <!-- 1st column with 50px width -->
+          <div class="author-img-column">
+            <img src="{{.Params.authorimg}}" alt="" class="img-author">
+          </div>
+          <!-- 2nd column with the rest of the width -->
+          <div class="author-info-column">
+            {{ .Params.author }}
+          </div>
+        </div>
          <img src="{{.Params.image | absURL}}" alt="" class="img-article">
          {{ .Content }}
          {{ template "_internal/disqus.html" . }}

@@ -4,7 +4,7 @@ image: /img/portfolio/image-2024-01-18t164301.612-min.png
 showonlyimage: true
 title: Item with image 1
 date: 2016-11-05T20:22:08+05:30
-author: Mateusz Pliszka
+author: Mateusz Pliszka, Customer Consulting
 authorimg: /img/authors/5f4fb33ce70c159b2ee6c6e9_matt.jpeg
 weight: 10
 ---

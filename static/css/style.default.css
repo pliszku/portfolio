@@ -74,8 +74,20 @@ section.background-secondary {
   border-radius: 50%;
   width: 50px;
   height: auto;
-  margin: 20px 0px;
 }
+.author-container {
+    display: flex;
+    align-items: center; /* Vertically center items */
+  }
+
+  /* 1st column styles */
+  .author-img-column {
+    width: 50px;
+  }
+  .author-info-column {
+    flex-grow: 1; /* Takes up the remaining width */
+    margin-left: 10px; /* Add margin for spacing between columns */
+  }
 .no-space .box {
   margin: 0 -15px;
 }
@@ -2009,7 +2021,7 @@ h2,
 h3,
 .h3 {
   margin-top: 0;
-  margin-bottom: 24px;
+  margin-bottom: 20px;
 }
 p {
   margin: 0 0 20px;
