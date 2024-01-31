@@ -7,6 +7,8 @@ date: 2016-11-05T20:22:08+05:30
 author: Mateusz Pliszka, Customer Consulting
 authorimg: /img/authors/5f4fb33ce70c159b2ee6c6e9_matt.jpeg
 weight: 10
+metadescription: Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia.
+
 ---
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia.
 
