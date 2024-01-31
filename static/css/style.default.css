@@ -1690,14 +1690,103 @@ hr {
   }
 }
 /* buttons  */
+.fixed-bottom-btn-container {
+    position: relative;
+  }
+
+.btn {
+    display: none; /* Initially hide the button */
+  }
+
+.fixed-bottom-btn-container .btn {
+    display: block; /* Show the button when inside the container */
+    position: fixed;
+    bottom: 10px; /* Adjust the bottom position as needed */
+    right: 50%;
+    transform: translateX(50%);
+    z-index: 1000; /* Set a high z-index to ensure the button stays on top of other elements */
+  }
+
+@media (min-width: 768px) {
+    .btn {
+      display: inline-block; /* Show the button by default on larger screens */
+    }
+    .fixed-bottom-btn-container .btn {
+      display: none; /* Hide the button when inside the container on larger screens */
+    }
+  }
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff; /* Adjust background color as needed */
+    padding: 10px;
+    margin-right: 20px; /* Adjust the right margin as needed */
+  }
+
+  .logo-container {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+  }
+
+  .logo-container img {
+    max-height: 40px; /* Adjust the max height of the logo */
+  }
+
+  .menu-items {
+    list-style: none;
+    display: flex;
+    gap: 20px; /* Adjust the gap between menu items */
+  }
+
+  .menu-items li a {
+    text-decoration: none;
+    color: #000; /* Adjust text color as needed */
+  }
+
+  .btn-green {
+    background-color: #2ecc71; /* Green color */
+    color: #fff !important; /* White text color */
+    padding: 10px 15px; /* Adjust padding as needed */
+    border-radius: 5px; /* Adjust border radius as needed */
+    text-decoration: none;
+  }
+
+  /* Responsive styles for smaller screens (e.g., mobile) */
+  @media (max-width: 768px) {
+    .menu {
+      flex-direction: column;
+      align-items: flex-start;
+      padding: 10px;
+    }
+
+    .menu-items {
+      margin-top: 10px; /* Adjust the top margin between logo and menu items */
+    }
+
+    .hide-on-mobile {
+      display: none; /* Hide elements with the 'hide-on-mobile' class on smaller screens */
+    }
+  }
+
 .btn {
   font-weight: 400;
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-family: "Ubuntu";
   padding: 6px 12px;
   font-size: 16px;
   line-height: 1.55;
-  border-radius: 0;
+  border-radius: 10;
+  margin-bottom: 20px;
 }
+.fixed-top-btn {
+    position: fixed;
+    top: 140px; /* Adjust the top position as needed */
+    left: 80%;
+    transform: translateX(-50%);
+    z-index: 1000; /* Set a high z-index to ensure the button stays on top of other elements */
+  }
 .btn-primary {
   color: #ffffff;
   background-color: #ef5285;
