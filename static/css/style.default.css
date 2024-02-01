@@ -1780,7 +1780,7 @@ hr {
     .menu {
       flex-direction: column;
       align-items: flex-start;
-      padding: 10px;
+      padding-top: 10px;
     }
 
     .menu-items {
