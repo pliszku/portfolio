@@ -1622,7 +1622,7 @@ body {
   background-color: #fff;
 }
 a {
-  color: #ef5285;
+  color: #3d88f9;
   text-decoration: none;
 }
 a:hover,
@@ -1816,7 +1816,7 @@ hr {
       background-color: #fff;
       border-color: #51596c;
       border-top: solid;
-      border-width: 0.5px;
+      border-width: 0.25px;
     }
 
     .footer p {
