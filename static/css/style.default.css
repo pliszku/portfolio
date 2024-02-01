@@ -1742,7 +1742,7 @@ hr {
     justify-content: space-between;
     align-items: center;
     background-color: #fff; /* Adjust background color as needed */
-    padding: 10px;
+    padding-top: 10px;
     margin-right: 20px; /* Adjust the right margin as needed */
   }
 
@@ -1821,6 +1821,7 @@ hr {
 
     .footer p {
       margin: 0;
+      opacity: .7;
     }
 
 .fixed-top-btn {
