@@ -1716,6 +1716,12 @@ hr {
     }
   }
 
+@media only screen and (max-width: 800px) {
+  .menu-items {
+    display: none !important;
+  }
+}
+
 .menu {
     display: flex;
     justify-content: space-between;
@@ -1772,6 +1778,8 @@ hr {
   }
 
 .btn {
+  background-color: #2ecc71;
+  border-color: #2ecc71;
   font-weight: 400;
   font-family: "Ubuntu";
   padding: 6px 12px;
@@ -1780,6 +1788,11 @@ hr {
   border-radius: 10;
   margin-bottom: 20px;
 }
+.btn:hover {
+  background-color: #2ecc71;
+  border-color: #2ecc71;
+  }
+
 .fixed-top-btn {
     position: fixed;
     top: 140px; /* Adjust the top position as needed */
