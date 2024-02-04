@@ -57,6 +57,9 @@ googleAnalytics = ""
   name = "Get in touch"
   url = "contact/"
 
+  [permalinks]
+  portfolio = "/news/:slug/"
+
   [params.social]
   facebook      = "full page or profile url in facebook"
   googleplus    = "full profile url in googleplus"
