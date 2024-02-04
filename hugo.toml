@@ -58,7 +58,7 @@ googleAnalytics = ""
   url = "contact/"
 
   [permalinks]
-  portfolio = "/news/:slug/"
+  portfolio = "/kanal-technologiczny/:slug/"
 
   [params.social]
   facebook      = "full page or profile url in facebook"
