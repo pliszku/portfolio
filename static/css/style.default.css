@@ -1716,7 +1716,7 @@ hr {
     }
   }
 
-@media only screen and (max-width: 930px) {
+@media only screen and (max-width: 1005px) {
   .menu-items {
     display: none !important;
   }
@@ -1754,6 +1754,10 @@ hr {
 
   .logo-container img {
     max-height: 40px; /* Adjust the max height of the logo */
+  }
+
+  .PL {
+    max-height: 30px; /* Adjust the max height of the logo */
   }
 
   .menu-items {
