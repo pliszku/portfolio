@@ -1775,6 +1775,10 @@ hr {
     text-decoration: none;
   }
 
+.bold {
+  font-weight: bold;
+}
+
   /* Responsive styles for smaller screens (e.g., mobile) */
   @media (max-width: 768px) {
     .menu {
