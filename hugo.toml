@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Creative portfolios"
+title = "Creative "
 theme = "/"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -58,7 +58,7 @@ googleAnalytics = ""
   url = "contact/"
 
   [permalinks]
-  portfolio = "/kanal-technologiczny/:slug/"
+  portfolio = "/news/:slug/"
 
   [params.social]
   facebook      = "full page or profile url in facebook"
