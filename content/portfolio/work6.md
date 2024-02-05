@@ -3,7 +3,7 @@ draft: false
 title: Jak rozwinąć sklep e-commerce - 10 najlepszych rozwiązań
 metadescription: "W tym samouczku pokażemy Ci krok po kroku instrukcję dotyczącą tego, jak założyć sklep internetowy przy użyciu platformy, przy wsparciu narzędzi oprogramowania."
 slug: ecommerce-jak-rozwinac
-image: /img/portfolio/65b3b579b96dd3957d5f5e35_Jak rozwinąć sklep-min.png
+image: /img/portfolio/eCommercegrow.png
 author: Mateusz Pliszka, Customer Consulting at SoftwareSupport
 date: 2023-01-25T12:55:22.000Z
 showonlyimage: false
