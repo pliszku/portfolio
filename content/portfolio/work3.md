@@ -1,31 +1,23 @@
-+++
-image = "img/portfolio/gravity-paper.jpg"
-showonlyimage = false
-date = "2016-11-05T19:44:32+05:30"
-title = "Name of the work 3"
-draft = false
-weight = 2
-+++
+---
+draft: false
+title: Nowości ze świata technologii styczeń 2024
+metadescription: "Poznaj nasze najciekawsze projekty technologiczne: Produkt SoftwareSupp, Wdrożenie CRM dla firmy robotycznej, Nakładka AR do Instagram, Portal do rekrutacji specjalistów, Wtyczka do płatności kryptowalutami w sklepie."
+slug: najciekawsze-projekty-2024
+image: /img/portfolio/65a94d2f73eca26009d53645_image - 2024-01-18T164301.612-min.png
+author: Mateusz Pliszka, Customer Consulting at SoftwareSupport
+date: 2023-01-18T12:55:22.000Z
+showonlyimage: false
+authorimg: /img/portfolio/5f4fb33ce70c159b2ee6c6e9_matt-2-.jpeg
+weight: 0
+---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H590JMMEyUE?si=F8OtxiitL1_aoifN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
-<!--more-->
+🌐 Wirtualna Polska kontynuuje konsolidację polskiego rynku internetowego - tym razem inwestuje w portal Wirtualne Media, wśród zakupów WP jest są nie tylko portale, ale również inwestycje e-commerce, takie jak Selsey
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+🎮 Kolejny producent komputerowy (po Lenovo i Asus) wchodzi na rynek gier przenośnych, tym razem jest to MSI, a konsola to MSI Claw (konkurent do Steam Decka)
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+₿ ETF Kryptowalut zaakceptowane w USA: amerykańskie SEC (Security and Exchange Commission) - czyli polski KNF, wydał zgodę na oferowanie klientom produktu ETF (Exchage Traded Fund), łącznie zaakceptowanych zostało 11 aplikacji w tym od BlackRock, Ark Investments. Oznacza to postęp i kamień milowy w regulacji kryptowalut jako standardowego i legalnego aktywa inwestycyjnego.
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+🤖 Microsoft wydaje Copilot Pro, czyli płatną wersję narzędzia Copilot - Copilot to narzędzie/dodatek do pakietu Office ułatwiający pracę z wykorzystaniem AI (ChatGPT) i łącznik ChatGPT z codziennymi narzędziami do pracy, koszt to od $20/miesiąc
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-## Header Level 2
-
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+🥽 Premiera Apple Vision Pro potwierdzona na 2. lutego 2024 w USA - Apple potwierdziło premierę nowego produktu VR w Stanach na 2. lutego 2024, urządzenie będzie kosztowało ok. 14 000 zł. Data premiery w Europie pozostaje niewiadomą, ale najpewniej będzie to dopiero 2025
