@@ -3,19 +3,19 @@
 <title>{{ .Title }} | SoftwareSupp</title>
 <meta name="description" content="{{ .Params.metadescription }}">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="{{ "css/bootstrap.min.css" | absURL }}">
+<link rel="stylesheet" href="{{ "https://news.softwaresupp.com/css/bootstrap.min.css" | absURL }}">
 <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,300,700,400italic">
-<link rel="stylesheet" href="{{ "css/font-awesome.min.css" | absURL }}">
+<link rel="stylesheet" href="{{ "https://news.softwaresupp.com/css/font-awesome.min.css" | absURL }}">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Ubuntu&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="{{ "css/owl.carousel.css" | absURL }}">
-<link rel="stylesheet" href="{{ "css/owl.theme.css" | absURL }}">
+<link rel="stylesheet" href="{{ "https://news.softwaresupp.com/css/owl.carousel.css" | absURL }}">
+<link rel="stylesheet" href="{{ "https://news.softwaresupp.com/css/owl.theme.css" | absURL }}">
 <!-- Theme stylesheet, if possible do not edit this stylesheet -->
 {{ with .Site.Params.style }}
-  <link href="{{ printf "css/style.%s.css" . | absURL }}" rel="stylesheet" id="theme-stylesheet">
+  <link href="{{ printf "https://news.softwaresupp.com/css/style.%s.css" . | absURL }}" rel="stylesheet" id="theme-stylesheet">
 {{ else }}
-  <link href="{{ "css/style.default.css" | absURL }}" rel="stylesheet" id="theme-stylesheet">
+  <link href="{{ "https://news.softwaresupp.com/css/style.default.css" | absURL }}" rel="stylesheet" id="theme-stylesheet">
 {{ end }}
  <!-- Responsivity for older IE -->
 <!-- Just in case -->
@@ -27,8 +27,8 @@
   ` | safeHTML }}
 
 <!-- Custom stylesheet - for your changes -->
-<link href="{{ "css/custom.css" | absURL }}" rel="stylesheet">
-<link rel="shortcut icon" href="{{ "img/favicon.png" | absURL }}">
+<link href="{{ "https://news.softwaresupp.com/css/custom.css" | absURL }}" rel="stylesheet">
+<link rel="shortcut icon" href="{{ "https://news.softwaresupp.com/img/favicon.png" | absURL }}">
 {{ with .OutputFormats.Get "RSS" }}
   {{ printf `<link href="%s" rel="%s" type="%s" title="%s" />` .Permalink .Rel .MediaType.Type $.Site.Title | safeHTML }}
 {{ end }}

@@ -448,8 +448,8 @@ SIDEBAR + RIGHT COLUMN
   margin-bottom: 20px;
 }
 .content-column-content ul li:before {
-  font-family: 'FontAwesome';
-  content: '\f105';
+  font-family: 'Ubuntu';
+  content: '>';
   margin: 0px 5px 0px 0px;
   color: #3d88f9;
 }

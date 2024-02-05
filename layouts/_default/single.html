@@ -10,7 +10,7 @@
     <li><a href="https://softwaresupp.com/subscribe">Deposit</a></li>
     <li><a href="https://calendly.com/softwaresupp/software-consultation">Book a call</a></li>
     <li><a href="https://softwaresupp.com/login">Login</a></li>
-    <li><a href="https://softwaresupp.com/kanal-technologiczny" class="bold">News</a></li>
+    <li><a href="https://softwaresupp.com/kanal-technologiczny-polska" class="bold">News</a></li>
     <li><a href="https://calendly.com/softwaresupp/software-consultation" class="btn-green">Hire Talent</a></li>
     <li><a href="https://softwaresupp.com/cennik-softwaresupp"><img src="https://assets-global.website-files.com/5e04ad880b1ac599dfe98c97/637d32af1e7cca40407d2e70_Poland-min.png" alt="Logo" class="PL"></a></li>
   </ul>
@@ -24,14 +24,14 @@
         <div class="author-container">
           <!-- 1st column with 50px width -->
           <div class="author-img-column">
-            <img src="{{.Params.authorimg}}" alt="" class="img-author">
+            <img src="https://news.softwaresupp.com{{.Params.authorimg}}" alt="" class="img-author">
           </div>
           <!-- 2nd column with the rest of the width -->
           <div class="author-info-column">
             {{ .Params.author }}
           </div>
         </div>
-         <img src="{{.Params.image | absURL}}" alt="" class="img-article">
+         <img src="https://news.softwaresupp.com{{.Params.image}}" alt="" class="img-article">
          {{ .Content }}
          {{ template "_internal/disqus.html" . }}
       </div>
