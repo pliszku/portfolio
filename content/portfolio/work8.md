@@ -1,7 +1,8 @@
 ---
 draft: false
 title: Recenzja Pipedrive - CRM dla handlowców, stworzony przez handlowców
-metadescription: "Wdrożenie odpowiedniego systemu CRM to nawet 30% wzrost sprzedaży i 1h pracy oszczędności dziennie. Sprawdzamy CRM Pipedrive."
+metadescription: Wdrożenie odpowiedniego systemu CRM to nawet 30% wzrost
+  sprzedaży i 1h pracy oszczędności dziennie. Sprawdzamy CRM Pipedrive.
 slug: pipedrive-recenzja
 image: /img/portfolio/PipedriveReview.png
 author: Mateusz Pliszka, Customer Consulting at SoftwareSupport
@@ -10,138 +11,165 @@ showonlyimage: false
 authorimg: /img/portfolio/5f4fb33ce70c159b2ee6c6e9_matt-2-.jpeg
 weight: 0
 ---
-# Technologia Hugo i Architektura Jamstack w Tworzeniu Witryn Internetowych
+Pracując z Pipedrive już ponad 3 lata, miałem wspaniałe doświadczenia. Miałem okazję wdrożyć i zintegrować system CRM Pipedrive dla firm w Polsce, USA i UE, co bez wątpienia było jednym z moich największych profesjonalnych wyzwań, z wieloma problemami biznesowymi, komunikacyjnymi i technicznymi na drodze.
 
-W dzisiejszym dynamicznym świecie internetowym, gdzie oczekuje się błyskawicznej responsywności stron internetowych i doskonałej wydajności, technologia Hugo i architektura Jamstack wnoszą nową jakość do tworzenia witryn internetowych. Mówimy tutaj wprawdzie o technologii tzw. customowej, mniej przystępnej do standardowego użytkownika, ale jednocześnie o znaczącej różnicy w prędkości stron internetowych i tego jak strona działa/funkcjonuje.
+Można śmiało powiedzieć, że Pipedrive, gdy jest prawidłowo wdrożony, może rzeczywiście zmienić sposób działania firm, głównie dzięki:
 
-Warto jednak porównać te rozwiązania z popularnym narzędziem do projektowania stron internetowych, takim jak Webflow, oraz z tradycyjnym systemem zarządzania treścią, jakim jest WordPress.
+* **Poprawie efektywności zespołów sprzedażowych** w trakcie procesu sprzedaży
+* **Wyższej konwersji i przychodu** dzięki strukturalnemu procesowi sprzedaży (kolejkom sprzedaży)
+* **Oszczędzaniu czasu na ręcznej pracy**, takiej jak aktualizacje e-maili czy ręczne wprowadzanie rekordów, dzięki automatyzacji procesów.
 
-## Szablony dostępne z poziomu Hugo
+Dla niektórych klientów wdrożenie systemu CRM może oznaczać nawet do +30% wzrost przychodów i oszczędność czasu pracy każdego członka zespołu nawet o 1 godzinę dziennie. Ale jak dokładnie działa Pipedrive i jakie oferuje funkcje? O tym dowiesz się z tej recenzji:
 
-Hugo to otwarte oprogramowanie, które pełni rolę generatora statycznych stron internetowych. Został napisany w języku programowania Go i jest znany ze swojej szybkości i prostoty użycia. Hugo umożliwia szybkie tworzenie witryn internetowych, generując pliki HTML, CSS, JavaScript i inne zasoby statyczne.
+## 1. Deals — miejsce do zarządzania wszystkimi potencjalnymi klientami
 
-Jamstack to architektura stosowana przy budowie stron internetowych, składająca się z trzech kluczowych składników: JavaScript, API, i Markup. To podejście odchodzi od tradycyjnego modelu renderowania stron po stronie serwera (Server-Side Rendering, SSR) na rzecz generowania stron po stronie klienta lub wcześniejszego generowania stron statycznych.
+![Pipeline View – Knowledge Base](https://assets-global.website-files.com/5e04ad880b1ac5bdcde98c9c/5f6b28716028c364e87b8046_Screen_Shot_2019-04-05_at_2.04.43_PM.png)
 
-### Główna różnica - dynamiczne vs statyczne
+Podstawowym widokiem w Pipedrive CRM jest widok transakcji (deals), który pozwala monitorować wszystkie otwarte rozmowy z potencjalnymi klientami. W tym widoku możesz zobaczyć:
 
-Główne różnice pomiędzy generowaniem stron statycznych, a dynamicznych.
+* **Etapy procesu i transakcje** w każdym etapie
+* **Wartość transakcji w kolejce** opartej na sprzedawanych produktach i prawdopodobieństwie
+* **Prognozę sprzedaży** na kolejne okresy na podstawie prawdopodobieństwa
 
-- **Dynamiczne Generowanie (np. WordPress/Webflow):**
-  - WordPress generuje strony dynamicznie po stronie serwera w odpowiedzi na żądania użytkowników.
-  - Każde żądanie wymaga odwołania się do bazy danych i przetworzenia kodu PHP.
+Wszystkie etapy w widoku transakcji są w pełni dostosowywalne, co oznacza, że możesz stworzyć swój idealny proces sprzedaży i podzielić się nim z zespołem.
 
-- **Generowanie Statyczne:**
-  - Strony są generowane statycznie przed publikacją, co oznacza, że każda wersja strony jest gotowa do dostarczenia natychmiast po żądaniu.
-  - Brak konieczności odwoływania się do bazy danych przy każdym żądaniu, co przekłada się na szybkość i wydajność.
+Możesz również utworzyć wiele różnych kolejek sprzedaży, dzieląc je na:
 
-Czyli podsumowując, jeśli masz stronę na WordPress - ta strona każdorazowo musi się wczytać, natomiast jeśli masz stronę na Jamstack ona już czeka przygotowana na użytkownika co przyspiesza jej działanie.
+* Źródło/kanał pozyskiwania
+* Typ usług
+* Zespoły
 
-### Strony statyczne - korzyści
+Możesz dowolnie przenosić transakcje do kolejnych etapów, wejść w dowolną transakcję, aby wyświetlić informacje przechowywane w danych kontaktów i organizacji, lub oznaczyć transakcję jako wygraną/przegraną.
 
-Jakie są zatem korzyści z używania tej technologii i migracji z WordPress do Jamstack/Hugo? Technologia Hugo i architektura Jamstack wyróżniają się kilkoma kluczowymi cechami, które przyczyniają się do ich rosnącej popularności wśród twórców stron internetowych. Oto kilka głównych cech wyróżniających te technologie:
+Gdy już masz transakcje ustawione, będziesz w stanie filtrować je według różnych członków zespołu odpowiedzialnych za nie, ale o tym porozmawiamy w jednym z kolejnych etapów w tej recenzji, ponieważ jest to jedna z kluczowych funkcji dla każdego użytkownika Pipedrive.
 
-#### Hugo:
+## 2. Activities — miejsce do monitorowania i planowania działań
 
-- **Szybkość Generowania Stron:**
-  - Hugo jest jednym z najszybszych generatorów stron statycznych dostępnych na rynku.
-  - Działa z dużą prędkością dzięki użyciu języka programowania Go do generowania stron.
+![Can I see activities that have been assigned to me? – Knowledge Base](https://assets-global.website-files.com/5e04ad880b1ac5bdcde98c9c/5f6b28867dbbaa2823b2a08e_Untitled.png)
 
-- **Prostota Użycia:**
-  - Intuicyjna i prostsza niż niektóre inne generatory, co pozwala programistom skoncentrować się na treści i projektowaniu zamiast na konfiguracjach.
+Widok działań, który można nazwać "ulepszonym kalendarzem", to miejsce, gdzie można monitorować wszystkie zaplanowane działania dla swoich transakcji i organizacji. Dla każdego przedstawiciela handlowego korzystającego z Pipedrive, powinien to być pierwszy ekran otwierany na początku dnia.
 
-- **Brak Zależności od Serwera:**
-  - Strony generowane przez Hugo są statyczne, co eliminuje potrzebę obsługi serwera przy każdym żądaniu, co przyczynia się do szybkości i łatwości zarządzania.
+Widok działań oferuje 2 tryby wyświetlania:
 
-- **Pre-rendering:**
-  - W architekturze Jamstack cały front end jest wcześniej przygotowywany w silnie zoptymalizowane strony statyczne oraz zasoby podczas procesu budowy. Ten proces pre-renderowania skutkuje stronami, które można dostarczać bezpośrednio z CDN, co zmniejsza koszty, złożoność i ryzyko związane z dynamicznymi serwerami jako kluczową infrastrukturą.
+* Lista
+* Kalendarz
 
-- **Wzmacniane za pomocą JavaScript:**
-  - Dzięki temu, że znaczniki i inne zasoby interfejsu użytkownika stron Jamstack są dostarczane bezpośrednio z CDN, mogą być dostarczane bardzo szybko i bezpiecznie. Na tej podstawie strony Jamstack mogą używać JavaScript i interfejsów API do komunikacji z usługami backendowymi, umożliwiając rozwinięcie i personalizację doświadczeń.
+W każdym widoku możesz **wprowadzać konkretne działania, oznaczać je jako zakończone i planować kolejne**. Możesz również zobaczyć informacje potrzebne do zrealizowania działania, takie jak numer telefonu, adres e-mail lub fizyczny.
 
-- **Wzmacniane za pomocą mikroserwisów:**
-  - Rozwijająca się ekonomia interfejsów API stała się istotnym wsparciem dla stron Jamstack. Możliwość korzystania z ekspertów w dziedzinie, którzy oferują swoje produkty i usługi poprzez interfejsy API, umożliwiła zespołom budowanie znacznie bardziej zaawansowanych aplikacji niż gdyby musiały same ponosić ryzyko i obciążenie związane z takimi możliwościami. Teraz możemy zlecać takie zadania jak uwierzytelnianie i identyfikacja, płatności, zarządzanie treścią, usługi danych, wyszukiwanie i wiele więcej.
+![Image for post](https://assets-global.website-files.com/5e04ad880b1ac5bdcde98c9c/5f5201ab4deba71af7259c55_0*RKheHxfDrwqwgoZO.jpeg)
 
-#### Co oznacza JAM w słowie Jamstack
+Pipedrive umożliwi również zaproponowanie czasu dla zaplanowania działania (jak spotkanie) za pomocą eleganckiego kalendarza. Swobodnie dostosowuj swoją dostępność i wyślij link do propozycji spotkania swoim klientom, co może być alternatywą dla zewnętrznego narzędzia, takiego jak Calendly.
 
-**Architektura Jamstack:**
+## 3. Contacts/organizations — przeglądaj swoje kontakty i firmy
 
-- **Bezpieczeństwo:**
-  - Bezpieczeństwo jest jednym z głównych atutów architektury Jamstack. Dzięki generowaniu statycznemu, strony są bardziej odporne na ataki, a CDN dodatkowo wzmacnia ochronę.
+![Image for post](https://assets-global.website-files.com/5e04ad880b1ac5bdcde98c9c/5f52028ec1ad360fb4bca4a1_0*3hyyjLFPY1Y3evQM.gif)
 
-- **Wydajność:**
-  - Strony oparte na architekturze Jamstack charakteryzują się szybkim czasem ładowania, co przyczynia się do doskonałego doświadczenia użytkownika.
+Organizacje w Pipedrive
 
-- **Skalowalność:**
-  - Dzięki podejściu opartemu na mikrousługach i wykorzystaniu API, aplikacje Jamstack są łatwe do skalowania, co pozwala obsłużyć rosnący ruch.
+Pipedrive opiera się na trzech głównych widokach: transakcji, kontaktów i organizacji. Wszystkie są ze sobą powiązane, co oznacza, że każda organizacja może mieć przypisane wiele kontaktów i transakcji.
 
-- **Łatwe Zarządzanie Treścią:**
-  - Treść strony może być łatwo zarządzana poprzez zintegrowane systemy zarządzania treścią (CMS), co ułatwia redakcję i aktualizację treści.
+Łatwo możesz przeglądać swoje kontakty i organizacje w dedykowanych widokach. Po wejściu w wybrany element, łatwo **zobaczysz więcej szczegółów dotyczących swoich kontaktów, w tym notatki, zaplanowane działania, pliki**. Ten widok wyświetli również pełną historię związaną z kontem, a także niestandardowe pola konta i kontaktu, które można łatwo dostosować do swoich potrzeb.
 
-- **Optymalizacja dla SEO:**
-  - Strony generowane statycznie są bardziej przyjazne dla wyszukiwarek, co przyczynia się do lepszej widoczności w wynikach wyszukiwania.
+![Image for post](https://assets-global.website-files.com/5e04ad880b1ac5bdcde98c9c/5f5201aa0eb65a73d2480ca2_0*hZN_EU-tasKSb-7l.jpeg)
 
-- **Modularność:**
-  - Architektura Jamstack umożliwia tworzenie modularnych i wielokrotnego użycia komponentów, co zwiększa elastyczność i łatwość utrzymania projektu.
+Kontakty w Pipedrive
 
-Obydwa te rozwiązania zmieniają sposób myślenia o projektowaniu stron internetowych, kładąc nacisk na wydajność, bezpieczeństwo i prostotę zarządzania treścią. Ich unikalne cechy sprawiają, że są atrakcyjnym wyborem dla projektów wymagających nowoczesnego podejścia do tworzenia witryn.
+Widok firmy i kontaktu pozwoli również wysyłać e-maile bezpośrednio z twojego CRM lub wystawiać faktury za pomocą odpowiedniej integracji.
 
-## Hugo i Jamstack przykłady
+## 4. Products — zarządzaj ofertą produktową dołączaną do transakcji, organizacji lub kontaktów
 
-### Hugo: Szybki i Prosty Generator Stron
+![Image for post](https://assets-global.website-files.com/5e04ad880b1ac5bdcde98c9c/5f5201aba4c367063e84d545_0*NJT4Y1VZC6suA9-a.gif)
 
-Hugo to generator statycznych stron internetowych, który zdobył popularność ze względu na swoją wydajność i prostotę użycia. Przykładowe strony internetowe stworzone przy użyciu Hugo to:
+Product's management in Pipedrive
 
-- [Hugo Themes Showcase](https://themes.gohugo.io/): Strona przedstawiająca różnorodne motywy (themes) dostępne dla Hugo, demonstrujące elastyczność i zróżnicowanie projektów.
-- [ExpressVPN](https://www.expressvpn.com/): Dostawca rozwiązania VPN
-- [Bootstrap](https://getbootstrap.com/): Bootstrap czyli paczka zasobów, szablonów, elementów do front-end developmentu
+Dzięki widokowi produktów w Pipedrive, łatwo będziesz mógł **zarządzać swoją ofertą produktową** i **wykorzystywać te dane w planowaniu sprzedaży z klientami**.
 
-### Architektura Jamstack: Bezpieczne i Wydajne Strony
+Dodaj produkty do swojej oferty, dodając cenę, warianty lub unikalny kod identyfikacyjny. Dodawaj różne warianty produktu, takie jak typ czy kolor, i śledź wszystkie otwarte transakcje lub pliki związane z produktem.
 
-Jamstack to architektura, która redefiniuje sposób budowania stron internetowych. Przykładowe strony internetowe oparte na architekturze Jamstack to:
+Jeśli prowadzisz sklep internetowy, na przykład oparty na Shopify, możesz łatwo zsynchronizować ofertę produktów swojego sklepu z bazą danych Pipedrive.
 
-- [Netlify Blog](https://www.netlify.com/blog/): Blog firmy Netlify, jednego z głównych dostawców usług związanych z architekturą Jamstack.
-- [Smashing Magazine](https://www.smashingmagazine.com/): Strona internetowa znanego czasopisma internetowego, która została zaprojektowana z wykorzystaniem architektury Jamstack.
-- [Audible](https://www.audible.com/): Zagraniczna “Audioteka”, czyli audiobooki w jednej miesięcznej cenie
+## 5. Filtering — najważniejsza funkcja w Pipedrive
 
-## Porównanie z Webflow i WordPress
+![Image for post](https://assets-global.website-files.com/5e04ad880b1ac5bdcde98c9c/5f5201aba51816ba45e74dcc_0*D9wLfOTiyfTxLcfC.gif)
 
-Webflow to platforma do projektowania stron internetowych, oferująca narzędzia do tworzenia stron bez konieczności korzystania z kodu, natomiast WordPress to jak wiadomo najbardziej popularny CMS i najbardziej powszechne rozwiązanie na świecie do hostowania stron. Oto porównanie między Hugo, Jamstack a Webflow i WordPress.
+Filtering in Pipedrive
 
-### Jamstack vs WordPress
+Filtrowanie jest prawdopodobnie najważniejszą funkcją w Pipedrive CRM, z którą warto się zapoznać, aby skutecznie zacząć korzystać z oprogramowania.
 
-- **Inwestycja w strony statyczne jest duża, natomiast w długim terminie jest to inwestycja opłacalna.**
+Używaj go, ustawiając warunki "i/lub" i przeglądaj swoje organizacje według branży, transakcje według źródeł lub kontakty według ostatniego czasu aktywności.
 
-#### Hugo i Jamstack:
+Prawidłowe użycie filtra pozwoli ci **stworzyć idealny sposób przeglądania danych**, takich jak generowanie listy kontaktów (kontaktów, z którymi nie kontaktowano od ponad miesiąca).
 
-- **Szybkość i Wydajność:**
-  - Hugo i Jamstack oferują znakomitą szybkość generowania stron i doskonałą wydajność dzięki statycznym plikom.
+## 6. Email integration — wysyłaj e-maile ze swojego CRM
 
-- **Bezpieczeństwo:**
-  - Architektura Jamstack eliminuje wiele luk bezpieczeństwa związanych z dynamicznymi stronami, co sprawia, że jest równie bezpieczna jak Hugo.
+![Image for post](https://assets-global.website-files.com/5e04ad880b1ac5bdcde98c9c/5f5201abb605d64a864062c9_0*5uxM8bQhoLMZAgNc.png)
 
-- **Łatwość Użycia:**
-  - Hugo może być bardziej zaawansowany dla osób nieznających programowania, podczas gdy Webflow oferuje interfejs wizualny, co może być bardziej przystępne dla nieprogramistów.
+Email integration & email templates in Pipedrive
 
-#### Webflow:
+Wysyłanie e-maili to istotna część pracy każdego przedstawiciela handlowego. Dzięki Pipedrive CRM możesz podnieść swoją komunikację e-mailową na wyższy poziom.
 
-- **Interfejs Wizualny:**
-  - Webflow oferuje intuicyjny interfejs do projektowania stron, co sprawia, że jest bardziej dostępny dla osób bez doświadczenia w kodowaniu.
+Widok e-maili po prostu pokaże ci twoją skrzynkę odbiorczą ze wszystkimi trwającymi rozmowami. Możesz wejść w rozmowę, aby zobaczyć związane z nią transakcje, organizacje i kontakty. Każdy e-mail, który wyślesz, umożliwi ci korzystanie z rozbudowanych funkcji e-maila, w tym:
 
-- **Dynamiczne Strony:**
-  - W przeciwieństwie do Hugo, Webflow umożliwia łatwe tworzenie dynamicznych stron internetowych bez konieczności korzystania z dodatkowych generatorów statycznych.
+* Monitorowanie otwarć
+* Monitorowanie kliknięć
+* Predefiniowane szablony e-maili (zawierające niestandardowe pola) do powtarzalnych e-maili wysyłanych do twoich potencjalnych klientów
 
-- **Hosting Wbudowany:**
-  - Webflow oferuje wbudowane hosting, co eliminuje potrzebę poszukiwania zewnętrznych usług hostingowych.
+Po wysłaniu e-maila możesz **skorzystać ze swojego asystenta handlowego, aby sprawdzić ostatnie otwarcia i kliknięcia, nawet po kilku tygodniach**. Wykorzystaj to do ponownego uruchomienia procesu sprzedaży po pewnym czasie.
 
-#### WordPress:
+## 7. Apps’ integration — wzbogać swoje CRM o zewnętrzne aplikacje
 
-- **Dynamiczne Strony:**
-  - WordPress opiera się na dynamicznych stronach generowanych "na żywo", co może prowadzić do spowolnienia i konieczności obsługi serwera, szczególnie przy dużym ruchu.
+![Image for post](https://assets-global.website-files.com/5e04ad880b1ac5bdcde98c9c/5f5201aba51816b4a9e74dce_0*Acwe7ZqmuoasF34N.gif)
 
-- **Bezpieczeństwo:**
-  - WordPress wymaga stałej aktualizacji w celu zabezpieczenia przed potencjalnymi atakami, w przeciwieństwie do Hugo i Jamstack, które eliminują wiele luk bezpieczeństwa dzięki generowaniu statycznemu.
+Zapier integration in Pipedrive
 
-- **Łatwość Użycia:**
-  - WordPress oferuje prosty interfejs administracyjny, co ułatwia zarządzanie treścią, ale może być bardziej skomplikowany niż interfejsy niektórych narzędzi Jamstack.
+Jeśli już używasz innych aplikacji e-mailowych i nie-e-mailowych, takich jak MailChimp czy Asana, Pipedrive będzie doskonałym towarzyszem, aby w pełni wykorzystać swoje workflow.
 
-Porównując te platformy, Hugo i Jamstack charakteryzują się szybkością, wydajnością i bezpieczeństwem, podczas gdy Webflow i WordPress oferują bardziej rozbudowane możliwości projektowania. Każde z tych narzędzi może być wybierane w zależności od konkretnych potrzeb projektu i preferencji użytkownika.
+Z setkami natywnych integracji, Pipedrive oferuje **wbudowaną panel aplikacji**, **pozwalającą na przetwarzanie danych z aplikacji w szczegółach kontaktów i organizacji**, w tym danych, takich jak otwarcia newslettera, kliknięcia czy wyświetlenia dokumentów.
+
+Korzystając z Zapier, będziesz w stanie zintegrować praktycznie dowolną aplikację z systemem, uruchamiając działania w innych systemach na podstawie określonych działań w Pipedrive, i odwrotnie.
+
+Jeśli to nie wystarczy, śmiało korzystaj z API Pipedrive, aby wdrożyć dowolną niestandardową integrację.
+
+## 8. Workflow automation — automatyzuj swoje zadania ręczne
+
+Każdy z nas ma pewnego rodzaju rutynę podczas prowadzenia procesu sprzedaży. Wysyłamy e-maile na etapie komunikacji z klientem, wprowadzamy dane do systemu, gdy ktoś wysyła nam e-maila, lub przypisujemy przedstawicieli handlowych do transakcji na podstawie określonych warunków.
+
+**Dzięki automatyzacji procesów w Pipedrive, łatwo zautomatyzujesz od 30 do 60 minut ręcznej pracy**, którą wykonujesz każdego dnia. Edytor wizualny pozwoli ci edytować konkretne kroki w procesie w zależności od określonych wyzwalaczy, działań lub warunków.
+
+Używaj go, aby oszczędzać czas dla siebie i zespołu oraz wracać wcześniej do domu lub więcej czasu poświęcać na kreatywne aspekty swojej pracy.
+
+## 9. Security and access - zarządzaj bezpieczeństwem swojego zespołu i zapewniaj dostęp do określonych grup użytkowników
+
+![Image for post](https://assets-global.website-files.com/5e04ad880b1ac5bdcde98c9c/5f5201ab3dfe0d5132b324ba_1*gsZN0RHEN3UTQ4RDWTqmVw.png)
+
+Security management in Pipedrive
+
+Zarządzanie bezpieczeństwem jest prawdopodobnie jednym z najważniejszych elementów tego rodzaju systemu. Pipedrive przykłada dużą wagę do bezpieczeństwa danych, posiada certyfikat SOC 2.
+
+Pozwala również na **ustawianie dostępu do określonych części systemu dla użytkowników i wybranych grup użytkowników**.
+
+Powiadomi cię o wszelkich naruszeniach bezpieczeństwa, takich jak nieautoryzowane próby logowania się lub wycieki danych, abyś mógł bezpiecznie zarządzać swoją organizacją z dowolnej części globu.
+
+## 10. Cele i raporty — ustawiaj cele i analizuj osiągnięcia celów dla swoich zespołów sprzedażowych
+
+![Image for post](https://assets-global.website-files.com/5e04ad880b1ac5bdcde98c9c/5f52028f39cc679431fddd2d_0*lE_--Ffv1EDWrU6_.gif)
+
+Raportowanie w Pipedrive
+
+Celem każdego zespołu sprzedażowego jest generowanie wyników, a nie ma lepszego narzędzia do analizy danych niż system CRM.
+
+Pipedrive pozwala ustawić codzienne, tygodniowe, miesięczne cele dla Twoich sprzedawców i monitorować ich osiągnięcia. Możesz także **ustawić cele dla całej firmy lub zespołu**, aby monitorować ogólny postęp i osiągnięcia.
+
+Jego analityczny pulpit pozwoli Ci analizować każdy etap procesu sprzedaży, w tym postęp w realizacji umów, efektywność działań czy przyczyny utraty.
+
+Wykorzystaj to do optymalizacji swoich procesów i wzrostu wydajności sprzedażowej. Dla niektórych firm możliwe jest osiągnięcie wzrostu sprzedaży nawet do +20% dzięki odpowiedniej analizie i optymalizacji.
+
+## Konfiguracja Pipedrive
+
+![Image for post](https://assets-global.website-files.com/5e04ad880b1ac5bdcde98c9c/5f5201aca8ac1ba16cd91883_0*5yUwo_EsCQaZcVTJ.png)
+
+Pipedrive to przyjazne dla użytkownika oprogramowanie dedykowane zarówno mniejszym, jak i większym zespołom. Ma pewne wady, takie jak brak systemu wyceniania/proponowania, które są naprawiane przez zespół produktowy Pipedrive miesiąc po miesiącu, ale ogólnie rzecz biorąc, jest to jedno z najlepszych i najbardziej perspektywicznych rozwiązań CRM dostępnych na rynku obecnie.
+
+Konfiguracja jego aplikacji na pulpit i urządzenia mobilne jest łatwa do zarządzania wewnętrznie, ale właściwa konfiguracja, szkolenie i integracja wymagają pewnej wiedzy technicznej i doświadczenia.
+
+Niektóre z głównych wyzwań obejmują strukturyzację/import danych, ustawienie niestandardowych pól, integrację z systemami zewnętrznymi czy szkolenie zespołu. Wszystko to można zrealizować przy wsparciu SoftwareSupp.
