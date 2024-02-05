@@ -1,8 +1,11 @@
 ---
 draft: false
 title: Nowości ze świata technologii styczeń 2024
-metadescription: "Poznaj nasze najciekawsze projekty technologiczne: Produkt SoftwareSupp, Wdrożenie CRM dla firmy robotycznej, Nakładka AR do Instagram, Portal do rekrutacji specjalistów, Wtyczka do płatności kryptowalutami w sklepie."
-slug: najciekawsze-projekty-2024
+metadescription: "Poznaj nasze najciekawsze projekty technologiczne: Produkt
+  SoftwareSupp, Wdrożenie CRM dla firmy robotycznej, Nakładka AR do Instagram,
+  Portal do rekrutacji specjalistów, Wtyczka do płatności kryptowalutami w
+  sklepie."
+slug: nowosci-technologii-styczen
 image: /img/portfolio/65a94d2f73eca26009d53645_image - 2024-01-18T164301.612-min.png
 author: Mateusz Pliszka, Customer Consulting at SoftwareSupport
 date: 2023-01-18T12:55:22.000Z
