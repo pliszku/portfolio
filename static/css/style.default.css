@@ -1770,7 +1770,7 @@ hr {
     color: #000; /* Adjust text color as needed */
   }
 
-  .menu-items ul li {
+  .menu-items li {
     margin-right:10px;
     margin-left:10px;
   }
