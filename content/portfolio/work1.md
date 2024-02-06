@@ -11,7 +11,7 @@ showonlyimage: false
 authorimg: /img/portfolio/5f4fb33ce70c159b2ee6c6e9_matt-2-.jpeg
 weight: 0
 ---
-<iframe width="auto" height="315" src="https://www.youtube.com/embed/bzxKm_Gtp3A?si=LvHfhxGcUv9qoBBZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="auto" height="auto" src="https://www.youtube.com/embed/bzxKm_Gtp3A?si=LvHfhxGcUv9qoBBZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Czego możemy spodziewać się w nowym roku 2024?
 
