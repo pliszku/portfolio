@@ -13,6 +13,8 @@ showonlyimage: false
 authorimg: /img/portfolio/5f4fb33ce70c159b2ee6c6e9_matt-2-.jpeg
 weight: 0
 ---
+<iframe width="auto" height="auto" src="https://www.youtube.com/embed/Cl_RjT9VK2w?si=0a_277ZiAQ3-LmH2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 W wolnym czasie lubię inwestować na giełdzie, jako, że studiowałem finanse, a swoje doświadczenie budowałem w różnych firmach technologicznych (w tym SoftwareSupp) i inwestycyjnych, od zawsze była to dla mnie tematyka ciekawa, można też powiedzieć, że moje wyniki inwestycyjne nie powalają, ale nie są najgorsze.
 
 Wg. danych jedynie około 20% gospodarstw domowych w Polsce inwestuje swoje oszczędności, podczas gdy w USA jest to ponad 50%, czyli ponad połowa społeczeństwa. Można więc śmiało powiedzieć, że jako naród jesteśmy narodem mocno niededukowanym pod kątem inwestowania, a wiedza o inwestycjach kończy się na kupieniu mieszkania na kredyt.
