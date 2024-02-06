@@ -1768,9 +1768,6 @@ hr {
   .menu-items li a {
     text-decoration: none;
     color: #000; /* Adjust text color as needed */
-  }
-
-  .menu-items li {
     margin-right:10px;
     margin-left:10px;
   }
