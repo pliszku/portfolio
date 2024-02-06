@@ -1763,12 +1763,16 @@ hr {
   .menu-items {
     list-style: none;
     display: flex;
-    gap: 20px; /* Adjust the gap between menu items */
   }
 
   .menu-items li a {
     text-decoration: none;
     color: #000; /* Adjust text color as needed */
+  }
+
+  .menu-items ul li {
+    margin-right:10px;
+    margin-left:10px;
   }
 
   .btn-green {
