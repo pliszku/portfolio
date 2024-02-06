@@ -1758,6 +1758,7 @@ hr {
 
   .PL {
     max-height: 30px; /* Adjust the max height of the logo */
+    display: unset;
   }
 
   .menu-items {
