@@ -4,7 +4,7 @@ metadescription: Firma z siedzibą w San Mateo, Kalifornia, poinformowała, że 
   Q4 miała stratę w wysokości 52 centów na akcję co przewyższyło oczekiwania
   inwestorów.
 slug: roblox-wyniki
-image: https://uploads-ssl.webflow.com/5e04ad880b1ac5bdcde98c9c/65c39c3fcf8ad86227244d95_Roblox-min.png
+image: /img/portfolio/Roblox.png
 author: Mateusz Pliszka, Customer Consulting at SoftwareSupport
 authorimg: /img/portfolio/5f4fb33ce70c159b2ee6c6e9_matt-2-.jpeg
 date: 2024-02-07T14:52:56.635Z
