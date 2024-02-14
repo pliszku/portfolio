@@ -1,6 +1,5 @@
 ---
-title: O wyniku wyborów w USA, bezpieczeństwie Europy i Polski - zadecyduje
-  Taylor Swift
+title: O wyniku wyborów w Stanach może zadecydować Taylor Swift
 metadescription: To bardzo prawdopodobne, że o dalszym bezpieczeństwie Ukrainy,
   a co za tym idzie Polski i Europy nie zadecydują wyborcy, nie zadecydują
   również Polscy politycy.
