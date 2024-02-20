@@ -20,6 +20,8 @@ Zobaczmy zatem jak prezentuje się najnowszy produkt od tego dostawcy.
 
 ## U﻿nboxing
 
+![](/img/portfolio/unboxing-min.png)
+
 Pudełko Meta Questa jest zgrabne i praktyczne.
 
 Otwierasz, wyciągasz urządzenie i kontrolery. Co ważne, w pudełku nie ma ładowarki USB-c ani pokrowca.
@@ -27,6 +29,8 @@ Otwierasz, wyciągasz urządzenie i kontrolery. Co ważne, w pudełku nie ma ła
 Fajne jest to, że praktycznie odrazu po założeniu urządzenia możesz go zacząć używać
 
 ## E﻿rgonomia
+
+![](/img/portfolio/ergonomia-min.png)
 
 Urządzenie jest naprawdę wygodne, nie ciąży na głowie i spokojnie można z nim chodzić po mieszkaniu, lub leżeć na kanapie.
 
@@ -36,6 +40,8 @@ Poza tym nie można mieć zbyt wiele uwag do ergonomii samego urządzenia które
 
 ## K﻿onfiguracja
 
+![](/img/portfolio/konfiguracja-min.png)
+
 Po założeniu Questa odpala się samouczek i konfiguracja otoczenia, czyli takiej granicy która ma Cię chronić przed uderzeniem w drzwi, ściany, okna.
 
 Sama konfiguracja jest raczej prosta i przebiega bezproblemowo choć sam fakt jej istnienia i to, że wymaga kontrolerów pokazuje, że nie jest to urządzenie które skupia się jakoś wybitnie na UXie.
@@ -43,6 +49,8 @@ Sama konfiguracja jest raczej prosta i przebiega bezproblemowo choć sam fakt je
 Przy konfiguracji lub rekonfiguracji nie napotkacie też błędów i bezproblemowo zrobicie setup w mniejszym pokoju jak i w dużym salonie, nie jest więc tak, że trzeba za każdym razem spędzać czas na rekonfiguracji sprzętu.
 
 ## P﻿assthrough?
+
+![](/img/portfolio/passthrough-min.png)
 
 Pierwszą rzeczą, której się przyjrzymy będzie tzw. passthrough.
 
@@ -60,6 +68,8 @@ Podsumowując, coś co jest promowane jako atut urządzenia można śmiało nazw
 
 ## Interfejs
 
+![](/img/portfolio/interfejs-min.png)
+
 Interfejs Questa bazuje na okienkach, których możemy otworzyć kilka na raz i trzeba przyznać, że działa to naprawdę fajnie i przyjemnie.
 
 Okno można łatwo przenosić jedynie za pomocą dłoni i teoretycznie możemy wyświetlić okna tam gdzie nam się tylko podoba.
@@ -71,6 +81,8 @@ Co do zasady Questa zatem lepiej obsługiwać co najmniej jednym kontrolerem, a 
 Ciężko ten interfejs porównywać z innymi systemami jako, że nie testowaliśmy jeszcze Vision Pro, ale można go ocenić jako dobry, okna fajnie się scrollują, da się je przenosić i włączać w dobrym momencie. Po wzięciu do rąk kontrolerów można ocenić go nawet na bardzo dobry, ponieważ zyskuje wtedy na stabilności i dokładności.
 
 ## P﻿odstowowe czynności
+
+![](/img/portfolio/podstawowe-czynności-min.png)
 
 Jakie zatem podstawowe czynności możemy wykonywać na Meta Queście?
 
@@ -84,6 +96,8 @@ Na Queście wykonacie zatem podstawowe codzienne rzeczy i poprzeglądacie intern
 
 ## Gaming
 
+![](/img/portfolio/gaming-min.png)
+
 Meta Quest 3 to urządzenie przede wszystkim gamingowe.
 
 Ma służyć jako rozrywka i trzeba przyznać robi to świetnie, gry po odpowiedniej konfiguracji budują wokół Ciebie widoczną przestrzeń, tzw. Granicę której nie możecie przekroczyć, w tej przestrzeni możecie właśnie grać w gry, czy to skręcanie urządzeń/elementów, koszykówka, czy ćwiczenia fitness.
@@ -95,6 +109,8 @@ Jeśli zatem szukacie nowych wrażeń gamingowych, znudziło Wam się strzelanie
 Gry naprawdę działają świetnie dzięki kontrolerom sterują się bezproblemowo i dadzą dużo radości, zarówno młodym jak i większym graczom. W większość gier zagracie w trybie imersyjnym co oszczędzi Wam oglądania ziarnistego otoczenia.
 
 ## F﻿ilmy
+
+![](/img/portfolio/filmy-min.png)
 
 Kolejną rzeczą do której został zaprojektowany Quest jest oglądanie filmów i tutaj pojawiają się pierwsze schody.
 
@@ -108,6 +124,8 @@ Jeśli jesteś nałogowym oglądaczem filmów, często chodzisz to kina - to ró
 
 ## H﻿ome Office
 
+![](/img/portfolio/home-office-min.png)
+
 Meta Quest to nie jest urządzenie stworzone do produktywnej pracy.
 
 Wprawdzie Remote Desktop umożliwia klonowanie obrazu z komputera, ale ziarnistość obrazu zewnętrznego jak i bateria mocno utrudnią Ci jakiekolwiek produktywne czynności czy też programowanie.
@@ -117,6 +135,8 @@ Jeśli dbasz o swoje zdrowie i samopoczucie, zdecydowanie lepiej będzie jeśli 
 Da się oczywiście na tym produktywnie pracować, a multi window może zwiększyć efektywność czasu, ale nie w tym celu jest zbudowane i skonstruowane to urządzenie i tutaj warto przyjrzeć się raczej nowemu produktowi Apple’a, czyli Vision Pro.
 
 ## Connectivity
+
+![](/img/portfolio/connectivity-min.png)
 
 Celem i misją Meta jest stworzenie tzw. Metaverse’u, przestrzeni w której żyjemy i podejmujemy interakcje ze społeczeństwem.
 
