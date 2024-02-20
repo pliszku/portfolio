@@ -65,7 +65,7 @@ section.background-secondary {
   font-family: "Georgia", "Times New Roman", Times, serif;
 }
 .img-responsive {
-  margin: 0 auto;
+  margin: 0 0;
 }
 .img-article {
   margin: 20px 0px;
