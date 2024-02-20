@@ -82,7 +82,7 @@ Ciężko ten interfejs porównywać z innymi systemami jako, że nie testowaliś
 
 ## P﻿odstowowe czynności
 
-![](/img/portfolio/podstawowe-czynności-min.png)
+![](/img/portfolio/podstawowe.png)
 
 Jakie zatem podstawowe czynności możemy wykonywać na Meta Queście?
 
