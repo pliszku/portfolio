@@ -20,7 +20,7 @@ Zobaczmy zatem jak prezentuje się najnowszy produkt od tego dostawcy.
 
 ## U﻿nboxing
 
-![](/img/portfolio/unboxing-min.png)
+![](https://news.softwaresupp.com/img/portfolio/unboxing-min.png)
 
 Pudełko Meta Questa jest zgrabne i praktyczne.
 
@@ -30,7 +30,7 @@ Fajne jest to, że praktycznie odrazu po założeniu urządzenia możesz go zacz
 
 ## E﻿rgonomia
 
-![](/img/portfolio/ergonomia-min.png)
+![](https://news.softwaresupp.com/img/portfolio/ergonomia-min.png)
 
 Urządzenie jest naprawdę wygodne, nie ciąży na głowie i spokojnie można z nim chodzić po mieszkaniu, lub leżeć na kanapie.
 
@@ -40,7 +40,7 @@ Poza tym nie można mieć zbyt wiele uwag do ergonomii samego urządzenia które
 
 ## K﻿onfiguracja
 
-![](/img/portfolio/konfiguracja-min.png)
+![](https://news.softwaresupp.com/img/portfolio/konfiguracja-min.png)
 
 Po założeniu Questa odpala się samouczek i konfiguracja otoczenia, czyli takiej granicy która ma Cię chronić przed uderzeniem w drzwi, ściany, okna.
 
@@ -50,7 +50,7 @@ Przy konfiguracji lub rekonfiguracji nie napotkacie też błędów i bezproblemo
 
 ## P﻿assthrough?
 
-![](/img/portfolio/passthrough-min.png)
+![](https://news.softwaresupp.com/img/portfolio/passthrough-min.png)
 
 Pierwszą rzeczą, której się przyjrzymy będzie tzw. passthrough.
 
@@ -68,7 +68,7 @@ Podsumowując, coś co jest promowane jako atut urządzenia można śmiało nazw
 
 ## Interfejs
 
-![](/img/portfolio/interfejs-min.png)
+![](https://news.softwaresupp.com/img/portfolio/interfejs-min.png)
 
 Interfejs Questa bazuje na okienkach, których możemy otworzyć kilka na raz i trzeba przyznać, że działa to naprawdę fajnie i przyjemnie.
 
@@ -82,7 +82,7 @@ Ciężko ten interfejs porównywać z innymi systemami jako, że nie testowaliś
 
 ## P﻿odstowowe czynności
 
-![](/img/portfolio/podstawowe.png)
+![](https://news.softwaresupp.com/img/portfolio/podstawowe.png)
 
 Jakie zatem podstawowe czynności możemy wykonywać na Meta Queście?
 
@@ -96,7 +96,7 @@ Na Queście wykonacie zatem podstawowe codzienne rzeczy i poprzeglądacie intern
 
 ## Gaming
 
-![](/img/portfolio/gaming-min.png)
+![](https://news.softwaresupp.com/img/portfolio/gaming-min.png)
 
 Meta Quest 3 to urządzenie przede wszystkim gamingowe.
 
@@ -110,7 +110,7 @@ Jeśli zatem szukacie nowych wrażeń gamingowych, znudziło Wam się strzelanie
 
 ## F﻿ilmy
 
-![](/img/portfolio/filmy-min.png)
+![](https://news.softwaresupp.com/img/portfolio/filmy-min.png)
 
 Kolejną rzeczą do której został zaprojektowany Quest jest oglądanie filmów i tutaj pojawiają się pierwsze schody.
 
@@ -124,7 +124,7 @@ Jeśli jesteś nałogowym oglądaczem filmów, często chodzisz to kina - to ró
 
 ## H﻿ome Office
 
-![](/img/portfolio/home-office-min.png)
+![](https://news.softwaresupp.com/img/portfolio/home-office-min.png)
 
 Meta Quest to nie jest urządzenie stworzone do produktywnej pracy.
 
@@ -136,7 +136,7 @@ Da się oczywiście na tym produktywnie pracować, a multi window może zwiększ
 
 ## Connectivity
 
-![](/img/portfolio/connectivity-min.png)
+![](https://news.softwaresupp.com/img/portfolio/connectivity-min.png)
 
 Celem i misją Meta jest stworzenie tzw. Metaverse’u, przestrzeni w której żyjemy i podejmujemy interakcje ze społeczeństwem.
 
