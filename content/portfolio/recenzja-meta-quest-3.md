@@ -1,5 +1,5 @@
 ---
-title: Recenzja Meta Quest 3
+title: Recenzja Meta Quest 3 - VR dostępny dla każdego
 metadescription: Czy świat wirtualnej rzeczywistości rysowany przez Meta i
   Metaverse mają rzeczywiście szanse zagościć w polskich domach, czy to
   przyszłość interakcji społecznych i domowego biura? To wszystko pokażemy Wam w
