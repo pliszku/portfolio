@@ -10,6 +10,8 @@ author: Mateusz Pliszka, Customer Consulting at SoftwareSupport
 authorimg: /img/portfolio/5f4fb33ce70c159b2ee6c6e9_matt-2-.jpeg
 date: 2024-02-20T15:27:53.406Z
 ---
+<iframe width="auto" height="auto" src="https://www.youtube.com/embed/cdkhagYM_8k?si=IcS0anVmkmC0yL1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Czy świat wirtualnej rzeczywistości rysowany przez Meta i Metaverse mają rzeczywiście szanse zagościć w polskich domach, czy to przyszłość interakcji społecznych i domowego biura?
 
 Meta Quest **sprzedało globalnie już 20 milionów** urządzeń, a mimo tego **dział VR wygenerował stratę 4 miliardów dolarów**.
