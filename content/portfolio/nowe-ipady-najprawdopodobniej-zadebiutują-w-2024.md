@@ -4,7 +4,7 @@ metadescription: Każda linia iPad'a ma otrzymać aktualizację w tym roku,
   zaczynając od pojawienia się modeli Pro opartych na technologii OLED oraz
   większego Air już w przyszłym miesiącu.
 slug: ipad-nowe-modele
-image: /img/portfolio/5f4fb33ce70c159b2ee6c6e9_matt-2-.jpeg
+image: /img/portfolio/ipady-min.png
 author: Mateusz Pliszka, Customer Consulting at SoftwareSupport
 authorimg: /img/portfolio/5f4fb33ce70c159b2ee6c6e9_matt-2-.jpeg
 date: 2024-02-22T14:22:20.997Z
