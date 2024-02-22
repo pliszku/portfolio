@@ -5,7 +5,7 @@ metadescription: Mimo tego, że główny akcjonariusz chce pozostać zaangażowa
   o odejściu, a akcje wrocławskiej firmy straciły na wartości już łącznie prawie
   25%.
 slug: woodpecker-akcje
-image: /img/portfolio/5f4fb33ce70c159b2ee6c6e9_matt-2-.jpeg
+image: /img/portfolio/woodpecker-min.png
 author: Mateusz Pliszka, Customer Consulting at SoftwareSupport
 authorimg: /img/portfolio/5f4fb33ce70c159b2ee6c6e9_matt-2-.jpeg
 date: 2024-02-22T14:18:06.089Z
