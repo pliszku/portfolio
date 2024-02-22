@@ -4,7 +4,7 @@ title: Nvidia ponownie zaskakuje inwestorów wynikami i kontynuuje rajd do
 metadescription: Nvidia ogłosiły wyniki za czwarty kwartał fiskalny, które
   przewyższyły prognozy Wall Street dotyczące zarobków i sprzedaży.
 slug: nvidia-wyniki
-image: /img/portfolio/5f4fb33ce70c159b2ee6c6e9_matt-2-.jpeg
+image: /img/portfolio/nvidia-min.png
 author: Mateusz Pliszka, Customer Consulting at SoftwareSupport
 authorimg: /img/portfolio/5f4fb33ce70c159b2ee6c6e9_matt-2-.jpeg
 date: 2024-02-22T14:19:15.777Z
