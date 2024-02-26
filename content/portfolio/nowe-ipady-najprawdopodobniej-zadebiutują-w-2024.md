@@ -1,5 +1,5 @@
 ---
-title: Nowe iPady najprawdopodobniej zadebiutują w 2024
+title: Nowe iPady zadebiutują w 2024
 metadescription: Każda linia iPad'a ma otrzymać aktualizację w tym roku,
   zaczynając od pojawienia się modeli Pro opartych na technologii OLED oraz
   większego Air już w przyszłym miesiącu.
