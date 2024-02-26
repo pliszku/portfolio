@@ -1694,16 +1694,6 @@ hr {
     position: relative;
   }
 
-.btn {
-    position: fixed;
-      bottom: 0;
-      left: 0;
-      right: 0;
-      z-index: 999;
-      text-align: center;
-      padding: 10px;
-  }
-
 .fixed-bottom-btn-container .btn {
     display: block; /* Show the button when inside the container */
     position: fixed;
