@@ -1716,7 +1716,7 @@ hr {
     }
   }
 
-@media only screen and (max-width: 1005px) {
+@media only screen and (max-width: 1030px) {
   .menu-items {
     display: none !important;
   }
