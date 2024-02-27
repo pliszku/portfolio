@@ -19,7 +19,7 @@ Zobaczmy, co robi i jak prezentuje się to urządzenie.
 
 ## **Unboxing, czyli co dostajemy w pudełku**
 
-![](/img/portfolio/unboxing-min2.png)
+![](https://news.softwaresupp.com/img/portfolio/unboxing-min2.png)
 
 W zawrotnej cenie 16 tys. zł w pudełku znajdziemy:
 
@@ -37,7 +37,7 @@ Niskim nakładem sił Apple osiąga zatem fajny efekt wśród swojej grupy fanó
 
 ## **Ergonomia**
 
-![](/img/portfolio/ergonomia-min2.png)
+![](https://news.softwaresupp.com/img/portfolio/ergonomia-min2.png)
 
 No dobrze, ale jak w takim razie ten sprzęt układa się na głowie i czy to w ogóle wygodne siedzieć z takim czymś przez dłuższy czas?
 
@@ -53,7 +53,7 @@ Podsumowując ergonomię, oceniłbym ją raczej średnio. Urządzenie jest cię�
 
 ## **Konfiguracja**
 
-![](/img/portfolio/konfiguracja-min2.png)
+![](https://news.softwaresupp.com/img/portfolio/konfiguracja-min2.png)
 
 Konfiguracja to przyjemne doświadczenie, którego niestety... nie da się pominąć.
 
@@ -67,7 +67,7 @@ Trzeba wtedy przeprowadzić konfigurację śledzenia dłoni i rąk ponownie, co 
 
 ## **Passthrough**
 
-![](/img/portfolio/passthrough-min2.png)
+![](https://news.softwaresupp.com/img/portfolio/passthrough-min2.png)
 
 Passthrough to możliwość oglądania otoczenia przez założone okulary.
 
@@ -85,7 +85,7 @@ Mogę Was jednak zapewnić, że Passthrough nie będzie Waszym głównym trybem 
 
 ## **Interfejs**
 
-![](/img/portfolio/interfejs-min2.png)
+![](https://news.softwaresupp.com/img/portfolio/interfejs-min2.png)
 
 I teraz coś, co w zasadzie jest największym game changerem w przypadku tego urządzenia, a jest to interfejs.
 
@@ -103,7 +103,7 @@ Poruszanie się po VisionOS to jednak niepowtarzalne doświadczenie, zwłaszcza 
 
 ## **Podstawowe czynności**
 
-![](/img/portfolio/podstawowe-min2.png)
+![](https://news.softwaresupp.com/img/portfolio/podstawowe-min2.png)
 
 W systemie VisionOS wykonamy większość podstawowych czynności z telefonu lub tabletu.
 
@@ -125,7 +125,7 @@ Podstawowe czynności będą dużo łatwiejsze, jeśli podłączycie zewnętrzn�
 
 ## **Home office**
 
-![](/img/portfolio/office-min2.png)
+![](https://news.softwaresupp.com/img/portfolio/office-min2.png)
 
 Vision Pro to w przeciwieństwie do innych zestawów VR urządzenie produktywne.
 
@@ -143,7 +143,7 @@ Eye tracking jest naprawdę dokładny, i nie spodziewałem się, że będę w st
 
 ## **Gaming**
 
-![](/img/portfolio/gaming-min2.png)
+![](https://news.softwaresupp.com/img/portfolio/gaming-min2.png)
 
 Vision Pro to nie jest urządzenie do gamingu, brak kontrolerów sprawia, że możliwość sterowania w grach jest jednak mocno ograniczona, i najlepszym rozwiązaniem dla graczy będzie prawdopodobnie streaming z innych serwisów.
 
@@ -153,7 +153,7 @@ Te apki to fajna rozrywka, ale jeśli szukacie urządzenia do gier, to po prostu
 
 ## **Filmy**
 
-![](/img/portfolio/filmy-min2.png)
+![](https://news.softwaresupp.com/img/portfolio/filmy-min2.png)
 
 Filmy na Apple Vision Pro to więcej niż kino. Odpalając Disney Plusa ustawiamy dowolne otoczenie i siadamy na wieży prosto z filmu Avengers.
 
@@ -167,7 +167,7 @@ Nie obejrzymy również filmu ze znajomymi i nie porzucamy się popcornem, samo 
 
 ## **Connectivity**
 
-![](/img/portfolio/connectivity-min2.png)
+![](https://news.softwaresupp.com/img/portfolio/connectivity-min2.png)
 
 Samo urządzenie jest mocno ograniczone pod kątem interakcji i multiplayera.
 
