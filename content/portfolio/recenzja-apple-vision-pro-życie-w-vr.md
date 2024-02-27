@@ -125,7 +125,7 @@ Podstawowe czynności będą dużo łatwiejsze, jeśli podłączycie zewnętrzn�
 
 ## **Home office**
 
-![](/img/portfolio/home-office-min2.png)
+![](/img/portfolio/office-min2.png)
 
 Vision Pro to w przeciwieństwie do innych zestawów VR urządzenie produktywne.
 
