@@ -167,7 +167,7 @@ Nie obejrzymy również filmu ze znajomymi i nie porzucamy się popcornem, samo 
 
 ## **Connectivity**
 
-![](/img/portfolio/gaming-min.png)
+![](/img/portfolio/connectivity-min.png)
 
 Samo urządzenie jest mocno ograniczone pod kątem interakcji i multiplayera.
 
