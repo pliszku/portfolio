@@ -4,7 +4,7 @@ metadescription: Dzisiaj mamy Was recenzje Apple Vision Pro, najnowszej
   technologii VR, której celem jest wprowadzenie ludzkości do wirtualnego świata
   na stale.
 slug: vision-pro-recenzja
-image: /img/portfolio/apple-vision-pro-min.png
+image: /img/portfolio/VisionPro-min.png
 author: Mateusz Pliszka, Customer Consulting at SoftwareSupport
 authorimg: /img/portfolio/5f4fb33ce70c159b2ee6c6e9_matt-2-.jpeg
 date: 2024-02-27T13:37:19.798Z
