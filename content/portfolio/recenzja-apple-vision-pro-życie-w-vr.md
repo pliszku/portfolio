@@ -4,7 +4,7 @@ metadescription: Dzisiaj mamy Was recenzje Apple Vision Pro, najnowszej
   technologii VR, której celem jest wprowadzenie ludzkości do wirtualnego świata
   na stale.
 slug: vision-pro-recenzja
-image: /img/portfolio/5f4fb33ce70c159b2ee6c6e9_matt-2-.jpeg
+image: /img/portfolio/apple-vision-pro-min.png
 author: Mateusz Pliszka, Customer Consulting at SoftwareSupport
 authorimg: /img/portfolio/5f4fb33ce70c159b2ee6c6e9_matt-2-.jpeg
 date: 2024-02-27T13:37:19.798Z
@@ -17,7 +17,9 @@ Ale co dostajemy w tej cenie, która przecież nie jest w zasięgu każdego i wi
 
 Zobaczmy, co robi i jak prezentuje się to urządzenie.
 
-**Unboxing, czyli co dostajemy w pudełku.**
+## **Unboxing, czyli co dostajemy w pudełku**
+
+![](/img/portfolio/unboxing-min.png)
 
 W zawrotnej cenie 16 tys. zł w pudełku znajdziemy:
 
@@ -33,7 +35,9 @@ Nie jest to nowość w przypadku sprzętu Apple. Jak wiemy, to, aby klient poczu
 
 Niskim nakładem sił Apple osiąga zatem fajny efekt wśród swojej grupy fanów i klientów.
 
-**Ergonomia**
+## **Ergonomia**
+
+![](/img/portfolio/ergonomia-min.png)
 
 No dobrze, ale jak w takim razie ten sprzęt układa się na głowie i czy to w ogóle wygodne siedzieć z takim czymś przez dłuższy czas?
 
@@ -47,7 +51,9 @@ Po założeniu na głowę skręcamy proste koło, co zaciska sprzęt na naszej g
 
 Podsumowując ergonomię, oceniłbym ją raczej średnio. Urządzenie jest ciężkie, sporo ułatwia natomiast mechanizm zaciskania.
 
-**Konfiguracja**
+## **Konfiguracja**
+
+![](/img/portfolio/konfiguracja-min.png)
 
 Konfiguracja to przyjemne doświadczenie, którego niestety... nie da się pominąć.
 
@@ -59,7 +65,9 @@ Wszystko oczywiście przebiega bezproblemowo, natomiast schody zaczynają się, 
 
 Trzeba wtedy przeprowadzić konfigurację śledzenia dłoni i rąk ponownie, co mocno wydłuża cały proces.
 
-**Passthrough**
+## **Passthrough**
+
+![](/img/portfolio/passthrough-min.png)
 
 Passthrough to możliwość oglądania otoczenia przez założone okulary.
 
@@ -75,7 +83,9 @@ Niesamowita jest natomiast jakość wyświetlanych obrazów. Ekran wewnątrz to 
 
 Mogę Was jednak zapewnić, że Passthrough nie będzie Waszym głównym trybem skorzystania z tego urządzenia. Za pomocą pokrętła przeniesiecie się w górę, nad jezioro albo na plażę, co daje naprawdę niesamowity efekt i pozwala natychmiastowo przenieść się w lepsze otoczenie.
 
-**Interfejs**
+## **Interfejs**
+
+![](/img/portfolio/interfejs-min.png)
 
 I teraz coś, co w zasadzie jest największym game changerem w przypadku tego urządzenia, a jest to interfejs.
 
@@ -91,7 +101,9 @@ W tej fazie rozwoju nie jest to jednak system wolny od błędów, zdarza się, �
 
 Poruszanie się po VisionOS to jednak niepowtarzalne doświadczenie, zwłaszcza gdy robimy to na hawajskim wulkanie.
 
-**Podstawowe czynności**
+## **Podstawowe czynności**
+
+![](/img/portfolio/podstawowe-min.png)
 
 W systemie VisionOS wykonamy większość podstawowych czynności z telefonu lub tabletu.
 
@@ -111,7 +123,9 @@ Musicie mieć też na uwadze, że wykonywanie tych podstawowych czynności za po
 
 Podstawowe czynności będą dużo łatwiejsze, jeśli podłączycie zewnętrzną klawiaturę i myszkę, wtedy zestaw zastąpi Wam w wielu aspektach komputer.
 
-**Home office**
+## **Home office**
+
+![](/img/portfolio/home-office-min.png)
 
 Vision Pro to w przeciwieństwie do innych zestawów VR urządzenie produktywne.
 
@@ -127,7 +141,9 @@ Podsumowując, urządzenie świetnie sprawuje się do pracy, zarówno jako uzupe
 
 Eye tracking jest naprawdę dokładny, i nie spodziewałem się, że będę w stanie trafiać wzrokiem dokładnie tam, gdzie patrzę. Sporo czynności da się w Vision Pro wykonać po prostu szybciej.
 
-**Gaming**
+## **Gaming**
+
+![](/img/portfolio/gaming-min.png)
 
 Vision Pro to nie jest urządzenie do gamingu, brak kontrolerów sprawia, że możliwość sterowania w grach jest jednak mocno ograniczona, i najlepszym rozwiązaniem dla graczy będzie prawdopodobnie streaming z innych serwisów.
 
@@ -135,7 +151,9 @@ Jeśli szukasz rozrywki na Vision Pro, tutaj dużo lepiej sprawdzają się aplik
 
 Te apki to fajna rozrywka, ale jeśli szukacie urządzenia do gier, to po prostu nie będzie sprzęt dla Ciebie; lepiej pozostańcie przy Meta Questcie, który w tym obszarze sprawdza się świetnie.
 
-**Filmy**
+## **Filmy**
+
+![](/img/portfolio/filmy-min.png)
 
 Filmy na Apple Vision Pro to więcej niż kino. Odpalając Disney Plusa ustawiamy dowolne otoczenie i siadamy na wieży prosto z filmu Avengers.
 
@@ -147,7 +165,9 @@ Na polskie Apple TV i Netflixa będziemy jednak musieli trochę poczekać.
 
 Nie obejrzymy również filmu ze znajomymi i nie porzucamy się popcornem, samo doświadczanie Vision Pro jest trzeba przyznać doświadczeniem samotnym.
 
-**Connectivity**
+## **Connectivity**
+
+![](/img/portfolio/gaming-min.png)
 
 Samo urządzenie jest mocno ograniczone pod kątem interakcji i multiplayera.
 
@@ -157,7 +177,7 @@ Elementem wartym uwagi jest oczywiście tworzenie swojej Persony, Avatara który
 
 W przeciwieństwie do wielu opinii w sieci, awatar stworzony dla mojej osoby jest stosunkowo dokładny, choć wciąż raczej śmieszny niż realistyczny.
 
-**Podsumowanie**
+## **Podsumowanie**
 
 Bateria trzyma dobrze, a na pewno wystarczająco, aby zdążyć nacieszyć się urządzeniem.
 
