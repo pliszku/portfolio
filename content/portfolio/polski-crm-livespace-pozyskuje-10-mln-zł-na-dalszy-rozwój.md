@@ -4,7 +4,7 @@ metadescription: Warszawska firma dostarczająca platformę CRM skoncentrowaną 
   procesach B2B, Livespace, pozyskała około 2,3 miliona euro (10 milionów
   złotych) w swojej drugiej rundzie inwestycyjnej.
 slug: livespace-finansowanie
-image: /img/portfolio/5f4fb33ce70c159b2ee6c6e9_matt-2-.jpeg
+image: /img/portfolio/livespace-min.png
 author: Mateusz Pliszka, Customer Consulting at SoftwareSupport
 authorimg: /img/portfolio/5f4fb33ce70c159b2ee6c6e9_matt-2-.jpeg
 date: 2024-03-12T11:43:21.290Z
