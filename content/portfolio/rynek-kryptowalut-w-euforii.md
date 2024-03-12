@@ -4,7 +4,7 @@ metadescription: Rekordy notują nie tylko same waluty ale również firmy
   operujące na rynku krypto oraz kraje takie jak Salwador, które zainwestowały w
   rynek krypto odpowiednio wcześnie.
 slug: kryptowaluty-euforia
-image: /img/portfolio/5f4fb33ce70c159b2ee6c6e9_matt-2-.jpeg
+image: /img/portfolio/bitcoin2-min.png
 author: Mateusz Pliszka, Customer Consulting at SoftwareSupport
 authorimg: /img/portfolio/5f4fb33ce70c159b2ee6c6e9_matt-2-.jpeg
 date: 2024-03-12T11:05:29.435Z
