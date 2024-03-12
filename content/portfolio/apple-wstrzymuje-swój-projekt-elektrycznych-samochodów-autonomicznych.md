@@ -3,7 +3,7 @@ title: Apple wstrzymuje swój projekt elektrycznych samochodów autonomicznych
 metadescription: Nad projektem pracowało w pewnym momencie 5 tys. osób, projekt
   kosztował firmę około 1 miliarda dolarów rocznie
 slug: apple-samochod
-image: /img/portfolio/5f4fb33ce70c159b2ee6c6e9_matt-2-.jpeg
+image: /img/portfolio/apple-min.png
 author: Mateusz Pliszka, Customer Consulting at SoftwareSupport
 authorimg: /img/portfolio/5f4fb33ce70c159b2ee6c6e9_matt-2-.jpeg
 date: 2024-03-12T11:37:47.312Z
