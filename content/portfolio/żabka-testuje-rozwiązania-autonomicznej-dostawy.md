@@ -3,7 +3,7 @@ title: Żabka testuje rozwiązania autonomicznej dostawy
 metadescription: Warszawa jest pierwszym miejscem gdzie przetestowano usługę
   dostaw za pomocą autonomicznego robota dostawczego.
 slug: zabka-autonomiczna
-image: /img/portfolio/5f4fb33ce70c159b2ee6c6e9_matt-2-.jpeg
+image: /img/portfolio/zabka-min.png
 author: Mateusz Pliszka, Customer Consulting at SoftwareSupport
 authorimg: /img/portfolio/5f4fb33ce70c159b2ee6c6e9_matt-2-.jpeg
 date: 2024-03-12T11:48:00.490Z
