@@ -9,7 +9,7 @@ author: Mateusz Pliszka, Customer Consulting at SoftwareSupport
 authorimg: /img/portfolio/5f4fb33ce70c159b2ee6c6e9_matt-2-.jpeg
 date: 2024-02-27T13:37:19.798Z
 ---
-Cześć, dzisiaj mamy dla Was recenzję Apple Vision Pro, najnowszej technologii VR, której celem jest wprowadzenie społeczeństwa do wirtualnego świata na stałe.
+Dzisiaj mamy dla Was recenzję Apple Vision Pro, najnowszej technologii VR, której celem jest wprowadzenie społeczeństwa do wirtualnego świata na stałe.
 
 Apple Vision Pro kosztuje w USA ok. 3,5 tys. dolarów, czyli doliczając sales tax, w zależności od stanu może to być nawet 4 tys. dolarów, co w przeliczeniu na polskie złote daje ok. 16 tys. zł.
 
