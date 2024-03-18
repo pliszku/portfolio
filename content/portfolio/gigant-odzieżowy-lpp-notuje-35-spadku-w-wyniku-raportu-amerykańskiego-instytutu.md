@@ -1,7 +1,7 @@
 ---
 title: Gigant odzieżowy LPP notuje 35% spadku w wyniku raportu amerykańskiego
   instytutu
-metadescription: Amerykański instytut Hindenburg Research, wskazuje, że LPP -
+metadescription: Amerykański instytut Hindenburg Research wskazuje, że LPP -
   lider branży odzieżowej w Polsce upozorował sprzedaż swojego biznesu w Rosji
 slug: lpp-spadek
 image: /img/portfolio/lpp-min.png
