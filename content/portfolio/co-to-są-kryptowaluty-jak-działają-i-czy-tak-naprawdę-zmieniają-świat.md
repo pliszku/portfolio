@@ -87,6 +87,8 @@ Decydując się na inwestycję w kryptowaluty każdy musi ocenić sam czy i jaki
 
 ## **6. Jak to możliwe, że ktoś na kryptowalucie zarobił tysiące procent w krótkim czasie?**
 
+![](/img/portfolio/dzwignia-min.png)
+
 Są 2 możliwości szybkiego i dużego zarobku na kryotowalutach, które są możliwe, ale jak zawsze mało prawdopodobne i wiele zależy od szczęścia.
 
 Pierwsza to **uczestnictwo w obstawianiu zamiast rzeczywistej inwestycji w kryptowalutę**, czyli granie na tzw. **dźwigni**. W takim przypadku wygrana lub strata przemnażana jest wielokrotnie, więc poprawnie obstawiając wzrost konkretnej kryptowaluty można zarobić wielokrotnie więcej jak i wielokrotnie szybciej pieniądze stracić - taka wygrana zdarza się rzadko i zazwyczaj jest wynikiem szczęścia, nie prawdziwych umiejętności inwestycyjnych.
