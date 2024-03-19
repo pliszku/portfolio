@@ -19,7 +19,7 @@ I w końcu czy Ty także powinieneś w nie inwestować, czy potrzebne są standa
 
 ## **1. Czy kryptowaluty to pieniądze?**
 
-![](/img/portfolio/pieniadz-min.png)
+![](https://news.softwaresupp.com/img/portfolio/pieniadz-min.png)
 
 Sama nazwa kryptowaluty jest dosyć myląca, bo jak sama nazwa wskazuje, wydawałoby się, że są to pieniądze lub są to waluty.
 
@@ -33,7 +33,7 @@ Podsumowując kryptowaluty są raczej postrzegane jako aktywo inwestycyjne spos�
 
 ## **2. Jak działają transakcje krypto?**
 
-![](/img/portfolio/transakcje-min.png)
+![](https://news.softwaresupp.com/img/portfolio/transakcje-min.png)
 
 Co najważniejsze wszystkie transakcje w świecie krypto odbywają się w tzw. blockchain i są publicznie dostępne.
 
@@ -47,7 +47,7 @@ To nie oznacza jednak, że tożsamość osób przeprowadzających transakcje jes
 
 ## **3. Jak zarządzana jest podaż kryptowaluty?**
 
-![](/img/portfolio/supply-min.png)
+![](https://news.softwaresupp.com/img/portfolio/supply-min.png)
 
 W przeciwieństwie do pieniędzy **nie ma instytucji ani osób które zarzają tym ile kryptowaluty może i ma być na rynku ile pieniędzy należy dodrukować lub ile z rynku zebrać**.
 
@@ -61,7 +61,7 @@ Jest to system zdecentralizowany, nie scentralizowany tak jak ma to miejsce w st
 
 ## **4. Dlaczego kryptowaluty rosną na wartości?**
 
-![](/img/portfolio/wzrost-min.png)
+![](https://news.softwaresupp.com/img/portfolio/wzrost-min.png)
 
 Głównym powodem dynamicznych wzrostów na rynku krypto jest przede wszystkim **ciągłe zwiększanie skali.** 
 
@@ -71,7 +71,7 @@ Mocno **rozdmuchana jest jednak ostania passa wzrostów** - jeśli zainwestował
 
 ## **5. Co wpłynie na dalsze zmiany ceny kryptowalut?**
 
-![](/img/portfolio/cena-min.png)
+![](https://news.softwaresupp.com/img/portfolio/cena-min.png)
 
 Przede wszystkim nie wolno dać się zwieść obietnicom, że cena kryptowalut może jedynie rosnąć.
 
