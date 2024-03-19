@@ -1,5 +1,5 @@
 ---
-title: Kryptowaluty - 10 najczęstszych pytań i odpowiedzi
+title: Co to są kryptowaluty - 10 najczęstszych pytań i odpowiedzi
 metadescription: W dzisiejszym materiale spojrzymy szerzej na to jak działają
   kryptowaluty, dlaczego tak dużo się o nich mówi, co napędza ich dalsze
   wzrosty, czy na rynku krypto panuje obecnie bańka inwestycyjna.
