@@ -1,5 +1,5 @@
 ---
-title: Co to są kryptowaluty, jak działają i czy tak naprawdę zmieniają świat?
+title: Kryptowaluty - 10 najczęstszych pytań i odpowiedzi
 metadescription: W dzisiejszym materiale spojrzymy szerzej na to jak działają
   kryptowaluty, dlaczego tak dużo się o nich mówi, co napędza ich dalsze
   wzrosty, czy na rynku krypto panuje obecnie bańka inwestycyjna.
