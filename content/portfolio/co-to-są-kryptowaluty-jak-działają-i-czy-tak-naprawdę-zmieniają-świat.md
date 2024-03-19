@@ -87,7 +87,7 @@ Decydując się na inwestycję w kryptowaluty każdy musi ocenić sam czy i jaki
 
 ## **6. Jak to możliwe, że ktoś na kryptowalucie zarobił tysiące procent w krótkim czasie?**
 
-![](/img/portfolio/dzwignia-min.png)
+![](https://news.softwaresupp.com/img/portfolio/dzwignia-min.png)
 
 Są 2 możliwości szybkiego i dużego zarobku na kryotowalutach, które są możliwe, ale jak zawsze mało prawdopodobne i wiele zależy od szczęścia.
 
