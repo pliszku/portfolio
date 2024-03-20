@@ -17,7 +17,7 @@ W dzisiejszym materiale spojrzymy szerzej na to jak działają kryptowaluty i o
 
 I w końcu czy Ty także powinieneś w nie inwestować, czy potrzebne są standardowemu Kowalskiemu.
 
-## **1. Czy kryptowaluty to pieniądze?**
+## **Czy kryptowaluty to pieniądze?**
 
 ![](https://news.softwaresupp.com/img/portfolio/pieniadz-min.png)
 
@@ -31,7 +31,7 @@ Szacuje się również, że bardzo **często są używane do nielegalnych transa
 
 Podsumowując kryptowaluty są raczej postrzegane jako aktywo inwestycyjne sposób trzymania pieniędzy i czasami - alternatywny środek płatności dla transakcji, a nie powszechny środek płatności lub pieniądz.
 
-## **2. Jak działają transakcje krypto?**
+## **Jak działają transakcje krypto?**
 
 ![](https://news.softwaresupp.com/img/portfolio/transakcje-min.png)
 
@@ -45,7 +45,7 @@ Podsumowując **wszystkie transakcje odbywające się pomiędzy posiadaczami kry
 
 To nie oznacza jednak, że tożsamość osób przeprowadzających transakcje jest publiczna, bo trzeba jeszcze połączyć adres portfela z tożsamością osób do których należy dany portfel - nie zawsze jest to możliwe a osoby często prowadzą kilka portfeli pod różnymi pseudonimami.
 
-## **3. Jak zarządzana jest podaż kryptowaluty?**
+## **Jak zarządzana jest podaż kryptowaluty?**
 
 ![](https://news.softwaresupp.com/img/portfolio/supply-min.png)
 
@@ -59,7 +59,7 @@ Nie ma zatem banku centralnego, a więc nie ma jednostki która posiada i sprawu
 
 Jest to system zdecentralizowany, nie scentralizowany tak jak ma to miejsce w standardowym systemie finansowym.
 
-## **4. Dlaczego kryptowaluty rosną na wartości?**
+## **Dlaczego kryptowaluty rosną na wartości?**
 
 ![](https://news.softwaresupp.com/img/portfolio/wzrost-min.png)
 
@@ -69,7 +69,7 @@ Jeśli zainwestowałbyś w najbardziej popularne krypto 5 albo 10 lat temu wielo
 
 Mocno **rozdmuchana jest jednak ostania passa wzrostów** - jeśli zainwestowałbyś w bitcoina 2-3 lata temu prawdopodobnie mógłbyś do dzisiaj nie odzyskać swojej inwestycji ponieważ w 2021 przy szczycie i tzw. boomie na krypto drastycznie wróciły do swoich poprzednich wartości i poziomów.
 
-## **5. Co wpłynie na dalsze zmiany ceny kryptowalut?**
+## **Co wpłynie na dalsze zmiany ceny kryptowalut?**
 
 ![](https://news.softwaresupp.com/img/portfolio/cena-min.png)
 
@@ -85,7 +85,7 @@ Argumentami przemawiającymi za spadkami jest natomiast **osiągnięcie punktu k
 
 Decydując się na inwestycję w kryptowaluty każdy musi ocenić sam czy i jakie ryzyko jest gotowy/gotowa podjąć.
 
-## **6. Jak to możliwe, że ktoś na kryptowalucie zarobił tysiące procent w krótkim czasie?**
+## **Jak to możliwe, że ktoś na kryptowalucie zarobił tysiące procent w krótkim czasie?**
 
 ![](https://news.softwaresupp.com/img/portfolio/dzwignia-min.png)
 
@@ -99,19 +99,19 @@ Jeśli dobrze znasz i rozumiesz rynek, wiesz gdzie szukać i wiesz która krypto
 
 Zazwyczaj jednak szybki zwrot i szybko zarobione pieniądze to pojedyncze historie szczęścia lub wielokrotnych prób, nie rzeczywiste przemyślane inwestycje.
 
-## **7. Czy każdy może założyć portfel kryptowalut?**
+## **Czy każdy może założyć portfel kryptowalut?**
 
 **Tak portfel może założyć każdy bez weryfikacji**, stajesz się wtedy częścią sieci blockchain.
 
 Natomiast aby zacząć korzystać z **giełd ułatwiających kupwoanie i sprzedawanie kryptowalut musisz przejść przez standardową weryfikację** na tych giełdach, najczęściej wiąże się to z podobnym procesem weryfikacji, który ma miejsce w bankach.
 
-## **8. Czy kryptowalutą można zapłacić w sklepie?**
+## **Czy kryptowalutą można zapłacić w sklepie?**
 
 **Nie, kryptowalutami nie zapłacisz w zdecydowanej większości sklepach stacjonarnych i online**.
 
 Natomiast niektóre giełdy mogą oferować płatność "symulującą" płatność kryptowalutami, czyli konwersję kryptowaluty na standardową walutę przy dokonywaniu płatności.
 
-## **9. Czy są jakieś minimalne limity posiadania kryptowalut?**
+## **Czy są jakieś minimalne limity posiadania kryptowalut?**
 
 **Nie, nie ma minimalnych limitów posiadania lub inwestowania w kryptowaluty**.
 
@@ -119,8 +119,16 @@ Możesz posiadać tyle kryptowalut ile chcesz o dowolnej wartości.
 
 Jest to na pewno jeden z dużych plusów inwestowania w kryptowaluty.
 
-## **10. Ile osób już posiada lub inwestuje w kryptowaluty?**
+## **Ile osób już posiada lub inwestuje w kryptowaluty?**
 
 W Polsce około **10% społeczeństwa** posiada lub inwestuje w kryptowaluty.
 
 W USA to ponad **20% społeczeństwa**.
+
+## **Co to jest halving kryptowaluty?**
+
+Halving to obniżenie nagród dla “kopaczy” kryptowaluty o połowę.
+
+Zmniejsza podaż kryptowaluty, ponieważ chęć do procesowania transakcji jest mniejsza.
+
+Halving jest wydarzeniem znanym i zaprogramowanym, transparentnym dla wszystkich.
