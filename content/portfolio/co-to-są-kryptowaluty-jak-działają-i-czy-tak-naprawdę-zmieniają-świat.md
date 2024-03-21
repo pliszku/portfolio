@@ -25,9 +25,7 @@ Sama nazwa kryptowaluty jest dosyć myląca, bo jak sama nazwa wskazuje, wydawa�
 
 Tak naprawdę **jedynie drobny procent użytkowników krypto używa ich do płatności** albo nabywania towarów i do tej pory nie stały się powszechnym środkiem płatności. 
 
-Jednym z powodów tego są **wysokie koszta transakcyjne**, innym **brak odpowiednich regulacji**.
-
-Szacuje się również, że bardzo **często są używane do nielegalnych transakcji** wg nieoficjalnych danych szacuje się, że może to być nawet 1/4 wszystkich transakcji krypto.
+Jednym z powodów tego są czasami **wysokie koszta transakcyjne**, innym **brak odpowiednich regulacji**.
 
 Podsumowując kryptowaluty są raczej postrzegane jako aktywo inwestycyjne sposób trzymania pieniędzy i czasami - alternatywny środek płatności dla transakcji, a nie powszechny środek płatności lub pieniądz.
 
