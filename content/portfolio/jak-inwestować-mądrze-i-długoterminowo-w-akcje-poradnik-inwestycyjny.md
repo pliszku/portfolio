@@ -112,6 +112,8 @@ Jak widać odsetki kumulują się, co pozwala na osiągnięcie coraz wyższych d
 
 ## Inwestowanie to walka z umysłem - kupowanie kiedy wszyscy sprzedają i sprzedawanie kiedy wszyscy kupują
 
+![](/img/portfolio/image-min.png)
+
 Nasz umysł bardzo często podpowiada nam aby robić to samo co inni i podążać za tzw. psychologią tłumu, czyli inwestować razem z innymi i sprzedawać również razem z innymi.
 
 Inwestując jednak, dużo lepszym sposobem jest kupowanie kiedy inni sprzedają (wtedy cena waloru jest niższa) i sprzedawanie kiedy inni kupują (wtedy cena waloru jest wyższa).
