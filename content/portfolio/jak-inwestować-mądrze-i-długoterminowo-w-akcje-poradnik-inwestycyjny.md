@@ -22,7 +22,7 @@ Mało kto zdaje sobie sprawę, że inwestując w odpowiedni i zabezpieczony spos
 
 Przykładowo inwestycja w podstawowy indeks “Nasdaq Composite” 5 lat temu to 100% wzrost wartości:
 
-![](/img/portfolio/16-302-76.png)
+![](https://news.softwaresupp.com/img/portfolio/16-302-76.png)
 
 Dlaczego zatem tak mocno wystrzegamy się inwestowania w cokolwiek innego niż aktywa tzw. “Bezpieczne”, a nawet sama inwestycja w alternatywne instrumenty takie jak ETFy jest dla nas zagadką?
 
@@ -30,7 +30,7 @@ Głównym czynnikiem są tutaj emocje, głowa i psychologia człowieka.
 
 ## Akcje i firmy zmieniają wartość każdego dnia, nieruchomości i aktywa bezpieczne są stabilne
 
-![](/img/portfolio/dotdash_final_reasons_to_invest_in_real_estate_vs_stocks_sep_2020-01-7d506c14f2584a34a15f17d4e2e2ec2c-min.jpg)
+![](https://news.softwaresupp.com/img/portfolio/dotdash_final_reasons_to_invest_in_real_estate_vs_stocks_sep_2020-01-7d506c14f2584a34a15f17d4e2e2ec2c-min.jpg)
 
 Będąc właścicielem nieruchomości, nie jesteś poddany tzw. wahaniom rynkowym, Twoja nieruchomość nie zmienia wartości z dnia na dzień, jej cena jest raczej stabilna, a z roku na rok rośnie w podobnym tempie.
 
@@ -40,7 +40,7 @@ W zdecydowanej większości ten strach nie jest uzasadniony, ponieważ co do zas
 
 ## Inwestowanie to nie jest zadanie ani zawód dla osób wrażliwych lub podatnych na skrajne emocje
 
-![](/img/portfolio/riskaverse_final_rev_02-aeaf9c912e1d4b9dab3481f76f514839-min.png)
+![](https://news.softwaresupp.com/img/portfolio/riskaverse_final_rev_02-aeaf9c912e1d4b9dab3481f76f514839-min.png)
 
 Jeśli myślisz o tym aby zacząć aktywnie inwestować swój kapitał, Ciebie i Twój umysł czeka mentalny roller coaster, a jeśli masz słabe nerwy, jest 80% szans, że stracisz swoje środki. Mówi się, że ok. 80% osób traci właśnie środki w wyniku tradingu.
 
@@ -52,7 +52,7 @@ Co ważne, poniższe dotyczą inwestycji w firmy lub aktywa inwestycyjne, nie ro
 
 ## Trading akcjami i kryptowalutami to nie inwestowanie
 
-![](/img/portfolio/investopedia-terms-swing-trading-b9db461c5db14f2b8fd3a7278578f281-min.jpg)
+![](https://news.softwaresupp.com/img/portfolio/investopedia-terms-swing-trading-b9db461c5db14f2b8fd3a7278578f281-min.jpg)
 
 Należy pamiętać, że inwestowanie nie ma nic wspólnego z tradingiem, czyli obstawianiem cen walorów w krótkim terminie (na przykład czy dzisiaj akcje wzrosną czy spadną), to zawód jedynie dla profesjonalnych traderów, którzy posiadają bardzo dokładne informacje w jednym segmencie rynku, często wykraczające poza powszechną wiedzę rynkową.
 
@@ -62,7 +62,7 @@ Standardowa perspektywa inwestycyjna inwestora długoterminowego powinna być w 
 
 ## Jedyna sensowna inwestycja to taka rozpisana na lata
 
-![](/img/portfolio/longtermassets_final-633c56a416364f9a96654d4a5f3a73cc-min.png)
+![](https://news.softwaresupp.com/img/portfolio/longtermassets_final-633c56a416364f9a96654d4a5f3a73cc-min.png)
 
 Jeśli planujesz inwestowanie na kilka miesięcy, prawdopodobnie po tych kilku miesiącach porzucisz inwestowanie i nigdy do niego nie wrócisz.
 
@@ -72,7 +72,7 @@ Istotne jest tutaj zrozumienie, że firmy to oddzielne jednostki, które mają s
 
 ## Inwestowanie bez strategii = wyrzucenie pieniędzy w błoto
 
-![](/img/portfolio/howtooutperformthemarket2-29d6ef5a974741fda40aadb8163e3c35-min.png)
+![](https://news.softwaresupp.com/img/portfolio/howtooutperformthemarket2-29d6ef5a974741fda40aadb8163e3c35-min.png)
 
 Inwestowanie to również praca, czyli egzekucja strategii inwestycyjnej.
 
@@ -82,7 +82,7 @@ Jeśli jej nie masz, inwestowanie nie będzie się różniło niczym od wyrzucen
 
 ## Stop loss to Twoja ochrona przed samym sobą i stratami
 
-![](/img/portfolio/stop-lossorder.asp-final-69b233d1e15d4628920c9568408d2648-min.png)
+![](https://news.softwaresupp.com/img/portfolio/stop-lossorder.asp-final-69b233d1e15d4628920c9568408d2648-min.png)
 
 Stop loss to strategia pozwalająca na ograniczenie strat po wykonaniu inwestycji w przypadku kiedy Twoje założenia inwestycyjne się nie sprawdzą.
 
@@ -94,7 +94,7 @@ W ten sposób chronisz swój portfel przed nadmiernymi stratami wynikającymi z 
 
 ## Procent składany to pewny sposób na zwiększanie majątku
 
-![](/img/portfolio/compoundinterest_final-5c67da5662ba458f8d9d229ab4ca4292-min.png)
+![](https://news.softwaresupp.com/img/portfolio/compoundinterest_final-5c67da5662ba458f8d9d229ab4ca4292-min.png)
 
 Inwestując długoterminowo korzystasz na tzw. procencie składanym.
 
@@ -112,7 +112,7 @@ Jak widać odsetki kumulują się, co pozwala na osiągnięcie coraz wyższych d
 
 ## Inwestowanie to walka z umysłem - kupowanie kiedy wszyscy sprzedają i sprzedawanie kiedy wszyscy kupują
 
-![](/img/portfolio/image-min.png)
+![](https://news.softwaresupp.com/img/portfolio/image-min.png)
 
 Nasz umysł bardzo często podpowiada nam aby robić to samo co inni i podążać za tzw. psychologią tłumu, czyli inwestować razem z innymi i sprzedawać również razem z innymi.
 
