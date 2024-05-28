@@ -12,7 +12,7 @@ date: 2024-05-28T10:21:51.430Z
 ---
 Jak inwestować mądrze i długoterminowo w akcje? Poradnik inwestycyjny.
 
-Zdecydowana większość Polaków inwestuje jedynie w bezpieczne aktywa, takie jak nieruchomości (tzw. kult nieruchomości: <https://www.bankier.pl/amp/wiadomosc/Kult-inwestowania-w-mieszkania-8697656>)  - ok. 1 milion osób zarabia na wynajmie, bardzo często inwestujemy również w lokaty bankowe.
+Zdecydowana większość Polaków inwestuje jedynie w bezpieczne aktywa, takie jak nieruchomości (tzw. [kult nieruchomości]([https://www.bankier.pl/amp/wiadomosc/Kult-inwestowania-w-mieszkania-86976](https://www.bankier.pl/amp/wiadomosc/Kult-inwestowania-w-mieszkania-8697656)))  - ok. 1 milion osób zarabia na wynajmie, bardzo często inwestujemy również w lokaty bankowe.
 
 Polacy boją się inwestowania w inne aktywa tłumacząc te decyzje niewiedzą lub niewystarczającym kapitałem jednocześnie będąc konsumentem i odbiorcą usług technologicznych, czyli tych właśnie firm, które powstają na skutek podejmowanych ryzyk.
 
