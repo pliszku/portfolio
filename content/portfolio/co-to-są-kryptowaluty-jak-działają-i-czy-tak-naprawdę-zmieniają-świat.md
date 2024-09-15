@@ -9,7 +9,7 @@ author: Mateusz Pliszka, Customer Consulting at SoftwareSupport
 authorimg: /img/portfolio/5f4fb33ce70c159b2ee6c6e9_matt-2-.jpeg
 date: 2024-03-19T12:06:20.121Z
 ---
-<iframe width="auto" height="auto" src="https://www.youtube.com/embed/MGk56uKhYxo?si=Hzsybq7YrWWjMx_f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="aut" height="auto" src="https://www.youtube.com/embed/MGk56uKhYxo?si=Hzsybq7YrWWjMx_f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 W dzisiejszym materiale spojrzymy szerzej na to jak działają kryptowaluty i odpowiemy na 10 najczęstszych pytań dotyczących krypto:
 
