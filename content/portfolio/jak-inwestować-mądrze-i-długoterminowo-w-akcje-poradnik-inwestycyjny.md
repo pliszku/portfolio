@@ -10,6 +10,8 @@ author: Mateusz Pliszka, Customer Consulting at SoftwareSupport
 authorimg: /img/portfolio/5f4fb33ce70c159b2ee6c6e9_matt-2-.jpeg
 date: 2024-05-28T10:21:51.430Z
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VXETRCJ8bSI?si=TO6nAPZQLx4O4f8y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Jak inwestować mądrze i długoterminowo w akcje? Poradnik inwestycyjny.
 
 Zdecydowana większość Polaków inwestuje jedynie w bezpieczne aktywa, takie jak nieruchomości (tzw. kult nieruchomości)  - ok. 1 milion osób zarabia na wynajmie, bardzo często inwestujemy również w lokaty bankowe.
