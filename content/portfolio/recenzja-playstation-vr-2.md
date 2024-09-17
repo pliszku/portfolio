@@ -115,6 +115,6 @@ Dodatkowo, brak możliwości łatwej wymiany baterii w kontrolerach może być w
 
 PlayStation VR 2 to dobry sprzęt dla konkretnego segmentu odbiorców. Dla mnie podłączenie kablem jest dużym plusem, ponieważ zapewnia jakościowe korzystanie właśnie z tego do czego to urządzenie zostało stworzone - bezlagowe i bezsieciowe strumieniowanie gier z PS5. Sprzęt robi to znakomicie i wywiązuje się w 100 procentach ze swoich obietnic.
 
-Same gry VR to nie gaming dla każdego i jeśli chcielibyście spróbować - musicie sami ocenić czy taka rozrywka będzie dla nas.
+Same gry VR to nie gaming dla każdego i jeśli chcielibyście spróbować - musicie sami ocenić czy taka rozrywka będzie dla Was.
 
 Ja pozostanę przy standardowych grach a VR pozostanie dla mnie jedynie dodatkiem i wisienką na torcie.
