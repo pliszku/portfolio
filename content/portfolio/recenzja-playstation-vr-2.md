@@ -47,6 +47,8 @@ Mógłbym wymieniać tak bez końca - urządzenie jest po prostu fatalne pod ką
 
 ## **3. Konfiguracja**
 
+![](/img/portfolio/psvr-konfiguracja.png)
+
 Konfiguracja PlayStation VR 2 jest raczej prosta, podpinamy kabel do Playstation - odpala się samouczek wewnątrz interfejsu playstation i chwilę później jesteśmy gotowi do gry. Sam proces to kalibracja śledzenia oczu, obszaru gry oraz ułożenia soczewek i nie ma tutaj zbytnio do czego się przyczepić, a zdecydowanym plusem jest wbudowanie całego interfejsu w bardzo prosty i przemyślany sposób w menu PlayStation.
 
 Kalibracja obszaru gry i dostosowanie headsetu do oczu są intuicyjne, ale nie zawsze idealnie precyzyjne – czasami może zająć kilka prób efekt. 
@@ -57,6 +59,8 @@ Kabel to jednak jedynie pozornie minus urządzenia. Po podłączeniu pod PS5 zmi
 
 ## **4. Passthrough**
 
+![](/img/portfolio/psvr-2-boundary-1-min.png)
+
 Passthrough, czyli możliwość podejrzenia otoczenia, to funkcja która w tym headsecie praktycznie nie istnieje i jest dostępna jedynie podczas konfiguracji lub przerwy w grze, obraz oferowany przez kamery jest jednak czarno-biały i niezbyt wyraźny. 
 
 Wystarcza do podstawowych czynności, takich jak znalezienie kontrolera czy orientacja w przestrzeni, ale nie jest wystarczająco dokładny, by można było czuć się całkowicie pewnie. 
@@ -64,6 +68,8 @@ Wystarcza do podstawowych czynności, takich jak znalezienie kontrolera czy orie
 Na tym polu PlayStation VR 2 wypada zdecydowanie gorzej w porównaniu z konkurencyjnymi headsetami, podczas grania nie wypijecie kawy, a “ewakuować się z trybu VR” można jedynie za pomocą dedykowanego przycisku, zapomnijcie również o grach działających w tzw. mieszanej rzeczywistości.
 
 ## **5. Interfejs**
+
+![](/img/portfolio/boundary-display-sensitivity-psvr-2-copy-min.png)
 
 PSVR 2 nie ma swojego interfejsu, a po podłączeniu kablem w całości bazuje na interfejsie Playstation wzbogaconym o funkcje i konfigurację VR. 
 
@@ -75,6 +81,8 @@ Brak dedykowanego interfejsu ma swoje plusy i minusy lecz w przypadku sprzętu t
 
 ## **6. Podstawowe czynności**
 
+![](/img/portfolio/psvr-2-ps5-ui-min.png)
+
 Ekran PSVR 2 to OLED o rozdzielczości 2 tys. Pikseli na oko, co łącznie daje rozdzielczość 4K.
 
 I nie byłoby tutaj do czego się przyczepić gdyby nie ergonomia i sposób konfiguracji sprzętu - ekran po prostu musi być ulokowany dokładnie naprzeciwko oczu, inaczej jest rozmazany - jakakolwiek zmiana położenia headsetu oznacza po prostu brak przejrzystości i ostrości obrazu - jest to po prostu wkurzające i niewygodne.
@@ -82,6 +90,8 @@ I nie byłoby tutaj do czego się przyczepić gdyby nie ergonomia i sposób konf
 Co jeśli chcecie przerwać transmisję ekranu i zobaczyć otoczenie bez ściągania sprzętu? Tutaj z pomocą przychodzi dedykowany jedynie temu przycisk który natychmiastowo pauzuje grę i ukazuje otoczenie - jest to bardzo proste i przydatne.
 
 ## **7. Gaming**
+
+![](/img/portfolio/horizon-feature-copy-min.png)
 
 Gry na PSVR2 to zupełnie inny poziom rozrywki. I nie mówię tutaj o grach dedykowanych VR lecz o tych standardowych - granie w gry z PS5 na wielkim ekranie 4K PsVr z zerowym lagiem i bez konieczności stabilnego połączenia z internetem to po prostu wspaniałe doświadczenie. Nieważne czy jesteście tak jak ja fanami gier filmowych czy też dynamicznych bijatyk - ja tego sprzętu używałem głównie do odpalenia standardowych nieVRowych gier bo jest to po postu nowy poziom gamingu.
 
@@ -91,15 +101,17 @@ Warto tutaj wspomnieć również o kontrolerach które są naprawdę dobre i sol
 
 ## **8. Filmy**
 
+![](/img/portfolio/download-netflix-ps5-min.png)
+
 W ramach interfejsu Playstation na VR odpalicie również najpopularniejsze apki streamingowe takiej jak Netflix, Disney Plus czy Amazon Prime. PSVR 2 to nie urządzenie stworzone do oglądania filmów, ale trzeba przyznać, że odpalanie serwisów i filmów jest dosyć proste i przyjemne.
 
-\[xxx]
+O﻿dpalanie serwisów nie różni się niczym od odpalania ich w interfejsie PlayStation.
 
 Nie uświadczycie tutaj jednak żadnych efektów, sali kinowej lub wirtualnego popcornu - oglądanie filmów to po prostu wielki ekran na czarnym ciemnym tle.
 
-Oglądanie filmów na PlayStation VR 2 to średnie doświadczenie. Tryb kinowy symuluje oglądanie na dużym ekranie, ale sama jakość obrazu pozostawia sporo do życzenia. Chociaż sprzęt obsługuje wysoką rozdzielczość, to w rzeczywistości wirtualny ekran nie dorównuje jakości kinowej – szczególnie jeśli chodzi o odwzorowanie kolorów i detale. Oglądanie filmów w VR może być ciekawym dodatkiem, ale dla prawdziwych kinomanów nie zastąpi tradycyjnych rozwiązań.
-
 ## **9. Connectivity**
+
+![](/img/portfolio/ps5-streaming-settings-min.png)
 
 Możliwość łączenia się i współpracy ze znajomymi w PSVR 2 ogranicza się do tego co oferuje interfejs i usługi sieciowe PlayStation, a te oczywiście są bardzo bogate.
 
@@ -108,6 +120,8 @@ Myślę, że warto nadmienić, że samo korzystanie z VR2 nie ogranicza korzysta
 W PSVR nie uświadczymy oczywiście żadnych dodatków takich jak spotkania w wirtualnej rzeczywistości lub tworzenie własnych przestrzeni/pokoju - to headset tylko i wyłącznie do grania i wyświetlania ekranu z PS5.
 
 ## **10. Wytrzymałość i bateria**
+
+![](/img/portfolio/sense-controller-ladestation-min.jpg)
 
 PS5 zasilane jest kablem podłączanym do Playstation więc nie ma tutaj mowy o żadnej baterii. Kontrolery Sense są dobrze skonstruowane, choć ich żywotność baterii wynosząca 4-5 godzin może być niewystarczająca dla bardziej zaawansowanych użytkowników. 
 
