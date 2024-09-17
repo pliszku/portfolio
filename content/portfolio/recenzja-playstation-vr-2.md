@@ -1,5 +1,5 @@
 ---
-title: Recenzja PlayStation VR 2
+title: Recenzja PlayStation VR 2 - wirtualna rzeczywistość dla graczy
 metadescription: Playstation VR 2 to nie sprzęt dla każdego. To sprzęt przede
   wszystkim, a właściwie tylko dla graczy. Czy jednak jako użytkownik VR
   potrzebujesz czegoś więcej niż dostęp do gier i opcjonalnie - serwisów
@@ -19,6 +19,8 @@ Jak zatem w tej roli sprawdzi się sprzęt podłączany kablem do dużej konsoli
 
 ## **1. Unboxing**
 
+![](/img/portfolio/psvr2-1-min.jpg)
+
 Unboxing PlayStation VR 2 nie wyróżnia się szczególnie wśród innych urządzeń elektronicznych. Opakowanie jest estetyczne, ale raczej minimalistyczne, a sposób opakowania nie różni się zbytnio od tego jak pakowane są konsole i akcesoria PlayStation. Zawartość to podstawowy zestaw: headset, kontrolery Sense, kable i instrukcja obsługi. 
 
 Brakuje tu jakichkolwiek dodatkowych akcesoriów, co w przypadku urządzenia tej klasy mogłoby być miłym dodatkiem, np. specjalnej ściereczki do czyszczenia soczewek. 
@@ -26,6 +28,8 @@ Brakuje tu jakichkolwiek dodatkowych akcesoriów, co w przypadku urządzenia tej
 Sam proces unboxingu nie wymaga większej uwagi, natomiast jeśli chcecie zapakować spowrotem zestaw do opakowania - tutaj podobnie jak osoba sprzedająca mi sprzęt napotkacie spore wyzwanie - nie wiadomo w którą stronę włożyć kontrolery i jak ułożyć headset - będziecie musieli zrobić to metodą prób i błędów. 
 
 ## **2. Ergonomia**
+
+![](/img/portfolio/psvr-2-min.jpg)
 
 Pod względem ergonomii PlayStation VR 2 prezentuje się co tu dużo mówić fatalnie. Headset jest wprawdzie lekki, lecz to nie waga jest tutaj problemem lub przeszkodą. Po raz pierwszy zanim założyłem headset musiałem przeczytać instrukcję obsługi, ponieważ są tutaj 2 główne pokrętła które odpowiadają za regulację - regulator paska wokół głowy i regulator odległości od oczu. Wprawdzie po kilku próbach łatwo zapamiętać proces zakładania na głowie, ale robienie tego za każdym razem jest po prostu uciążliwe.
 
