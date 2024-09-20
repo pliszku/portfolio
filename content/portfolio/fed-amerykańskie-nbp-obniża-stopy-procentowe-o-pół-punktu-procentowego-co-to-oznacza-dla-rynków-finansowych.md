@@ -12,6 +12,8 @@ author: Mateusz Pliszka, Customer Consulting at SoftwareSupport
 authorimg: /img/portfolio/5f4fb33ce70c159b2ee6c6e9_matt-2-.jpeg
 date: 2024-09-19T09:35:12.845Z
 ---
+<iframe width="auto" height="auto" src="https://www.youtube.com/embed/mz0M56rrBNY?si=BlrM8Xyy-TsmWNA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Rezerwa Federalna obniżyła w środę krótkoterminowe koszty pożyczek w Stanach Zjednoczonych o większe niż zwykle pół punktu procentowego, co jest istotnym momentem dla rynków. Obniżka powinna zacząć łagodzić część presji finansowych odczuwanych przez konsumentów w ciągu dwóch i pół roku, kiedy to bank centralny walczył z wysoką inflacją.
 
 D﻿la rynków finansowych może to potencjalnie oznaczać kontynuację zastrzyku inwestowanych środków pożyczanych po niższych niż obecnie stopach procentowych, a co za tym idzie dalszy wzrost cen walorów.
