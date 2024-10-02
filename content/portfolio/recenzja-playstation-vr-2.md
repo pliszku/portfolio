@@ -11,6 +11,8 @@ author: Mateusz Pliszka, Customer Consulting at SoftwareSupport
 authorimg: /img/portfolio/5f4fb33ce70c159b2ee6c6e9_matt-2-.jpeg
 date: 2024-09-17T13:23:34.031Z
 ---
+<iframe width="auto" height="auto" src="https://www.youtube.com/embed/KglkSRvCYNs?si=0gTdtvxFIti0lCk_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Playstation VR 2 to nie sprzęt dla każdego. To sprzęt przede wszystkim, a właściwie tylko dla graczy. Czy jednak jako użytkownik VR potrzebujesz czegoś więcej niż dostęp do gier i opcjonalnie - serwisów filmowych na wielkim kinowym ekranie? Czym różni się granie na PSVR 2 od grania na innych zestawach VR? O tym dowiesz się więcej z tej recenzji.
 
 Samemu będąc graczem miałem mieszane uczucia w stosunku do tego zestawu. Testując poprzednie VRy byłem pewien, że ich celem i rolą jest rozszerzanie rzeczywistości i wspieranie codziennej aktywności. Koniec końców jednak w zdecydowanej większości gdy używałem VRów ich użytkowanie kończyło się bardzo często na oglądaniu filmów i graniu w dedykowane tytuły. 
