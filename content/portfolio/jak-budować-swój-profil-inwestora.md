@@ -10,6 +10,8 @@ author: Mateusz Pliszka, Customer Consulting at SoftwareSupport
 authorimg: /img/portfolio/5f4fb33ce70c159b2ee6c6e9_matt-2-.jpeg
 date: 2024-11-20T13:59:18.439Z
 ---
+<iframe width="auto" height="auto" src="https://www.youtube.com/embed/lratOlwrTZI?si=X3eHTZqY_NShDTsk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Dzisiaj pokażemy Wam jak zbudować swój profil inwestora i jak mierzyć zwroty z wybranych walorów za pomocą naszego narzędzia.
 
 Akcje możesz wyszukiwać ręcznie wpisując ich nazwę lub generując listy - zwrotów długoterminowych, zwrotów krótkoterminowych lub wskaźników i segmentów. Obecnie to ponad 100 najpopularniejszych akcji amerykańskich, a naszą bazę aktualizujemy każdego dnia.
