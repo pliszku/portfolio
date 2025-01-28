@@ -6,7 +6,7 @@ metadescription: 2024 to rok, który upłynął nam pod dyktando wyborów
   Crowdstrike. Spójrzmy na najciekawsze cele inwestycyjne na najbliższe lata i
   rok 2025.
 slug: najciekawsze-inwestycje-2025
-image: /img/portfolio/najciekawsze-inwestycje-długoterminowe-na-rok-2025-min.png
+image: /img/portfolio/najciekawsze-inwestycje-długoterminowe-na-rok-2025-min-1-.png
 author: Mateusz Pliszka, Customer Consulting at SoftwareSupport
 authorimg: /img/portfolio/5f4fb33ce70c159b2ee6c6e9_matt-2-.jpeg
 date: 2025-01-28T11:03:49.691Z
