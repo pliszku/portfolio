@@ -11,6 +11,8 @@ author: Mateusz Pliszka, Customer Consulting at SoftwareSupport
 authorimg: /img/portfolio/5f4fb33ce70c159b2ee6c6e9_matt-2-.jpeg
 date: 2025-01-28T11:03:49.691Z
 ---
+<iframe width="auto" height="auto" src="https://www.youtube.com/embed/yd6xICEDl2U?si=ChA1FFrHps7PF00N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 2024 to rok, który upłynął nam pod dyktando wyborów prezydenckich USA oraz dalszego rozwoju sztucznej inteligencji. To także rok porażek, takich jak komercyjna porażka Apple Vision Pro oraz globalna awaria Crowdstrike.
 
 Spójrzmy na najciekawsze cele inwestycyjne na najbliższe lata i rok 2025:
