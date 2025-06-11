@@ -1,5 +1,5 @@
 ---
-title: Jak budować swój profil inwestora
+title: Jak budować swój profil inwestora technologicznego
 metadescription: Profil inwestora to miejsce gdzie znajdziesz wszystkie swoje
   obserwowane oraz posiadane walory i będziesz na bieżąco z krótkoterminowymi
   oraz długoterminowymi zwrotami. Możesz swobodnie dodawać i usuwać firmy ze
