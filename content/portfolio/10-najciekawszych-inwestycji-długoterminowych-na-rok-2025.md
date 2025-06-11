@@ -1,5 +1,5 @@
 ---
-title: 10 Najciekawszych inwestycji długoterminowych na rok 2025
+title: 10 Najciekawszych inwestycji technologicznych na rok 2025
 metadescription: 2024 to rok, który upłynął nam pod dyktando wyborów
   prezydenckich USA oraz dalszego rozwoju sztucznej inteligencji. To także rok
   porażek, takich jak komercyjna porażka Apple Vision Pro oraz globalna awaria
