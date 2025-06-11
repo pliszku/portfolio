@@ -1,5 +1,5 @@
 ---
-title: Jak inwestować mądrze i długoterminowo w akcje? Poradnik inwestycyjny.
+title: Jak inwestować mądrze i długoterminowo w akcje tech? Poradnik inwestycyjny.
 metadescription: Mało kto zdaje sobie sprawę, że inwestując w odpowiedni i
   zabezpieczony sposób na rynku kapitałowym wcale nie podejmuje znaczącego
   ryzyka, a potencjalny zwrot z takich inwestycji jest znacznie wyższy niż zwrot
