@@ -98,7 +98,7 @@ Bez osób, które wiedzą jak wydać projekt do grupy docelowej, wypromować go,
 
 ## “Oszczędzanie” na usługach IT
 
-![](https://news.softwaresupp.com/img/portfolio/7.-jakość-usług-vs.-cena-min.png)
+![](https://news.softwaresupp.com/img/portfolio/7.Oszczedzanie.png)
 
 Osoby korzystające z usług IT, często nie rozumieją, że w parze z jakością idzie również cena. Nie da się tworzyć złożonych projektów technologicznych z wieloletnią perspektywą budżetowo i niskimi zasobami. To niezrozumienie prowadzi często to prób realizacji projektów niskim kosztem.
 
