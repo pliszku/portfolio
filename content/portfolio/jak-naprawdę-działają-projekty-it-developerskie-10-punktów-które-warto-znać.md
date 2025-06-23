@@ -5,22 +5,22 @@ metadescription: Mimo, że Polska jest znana z wychowywania talentów
   informatycznych/technologicznych to dla większości osób wciąż zamknięta księga
   i pilnie skrywana tajemnica.
 slug: jak-dziala-it
-image: /img/portfolio/jak-dziala-it-min.png
+image: https://news.softwaresupp.com/img/portfolio/jak-dziala-it-min.png
 author: Mateusz Pliszka, Customer Consulting at SoftwareSupport
-authorimg: /img/portfolio/5f4fb33ce70c159b2ee6c6e9_matt-2-.jpeg
+authorimg: https://news.softwaresupp.com/img/portfolio/5f4fb33ce70c159b2ee6c6e9_matt-2-.jpeg
 date: 2025-06-23T20:39:11.650Z
 ---
 Rynek usług informatycznych/technologicznych to dla większości osób wciąż zamknięta księga i pilnie skrywana tajemnica.
 
 Mimo, że Polska jest znana z wychowywania talentów kontraktowanych przez zarówno USA i Europę Zachodnią i mimo, że wciąż kojarzona jest jako jeden z “liderów” tzw. outsourcingu technologicznego, mam wrażenie, że wciąż mało osób zdaje sobie sprawę jak ten rynek rzeczywiście działa i funkcjonuje.
 
-![](/img/portfolio/rynek-min.png)
+![](https://news.softwaresupp.com/img/portfolio/rynek-min.png)
 
 Z jednej strony taki stan rzeczy jest korzystny dla samych firm zatrudniających i pośredniczących - im mniejsza wiedza kandydata na temat tego co dzieje się za zamkniętymi drzwiami, tym większa swoboda w dyktowaniu warunków zatrudnienia. Z drugiej strony prawdą jest również to, że nie wszyscy muszą rozumieć wszystko co się w tej branży dzieje i jest to wiedza “bardziej specjalistyczna”, dla tych, którzy rzeczywiście tym tematem się interesują.
 
 ## Outsourcing vs. internal development
 
-![](/img/portfolio/1.-internal-vs.-outsourcing-min.png)
+![](https://news.softwaresupp.com/img/portfolio/1.-internal-vs.-outsourcing-min.png)
 
 Aby zrozumieć sedno projektów developerskich, należy rozumieć czym różni się tzw. development wewnętrzny od outsourcingu i kontraktingu - to często również podział, który jest widoczny w rolach i pozycjach na które zatrudniają firmy.
 
@@ -44,7 +44,7 @@ Podsumowując jeśli o projekcie myślimy “długoterminowo”, to budowa włas
 
 ## Koszta i rozliczenia - opłacalność
 
-![](/img/portfolio/2.-oplacalnosc-min.png)
+![](https://news.softwaresupp.com/img/portfolio/2.-oplacalnosc-min.png)
 
 Mimo rewolucji w świecie AI, projekty developerskie wciąż kosztują i to sporo. Stawki czołowych specjalistów wcale nie zmalały, a Ci, którzy zaadaptowali się do zmian technologicznych w sztucznej inteligencji stali się na rynku IT jeszcze mocniej cenieni.
 
@@ -54,7 +54,7 @@ Dlatego standard zachodni to rozliczenie na podstawie czasu poświęconego na re
 
 ## Tzw. “to nas nie dotyczy” - HR i rotacja projektowa
 
-![](/img/portfolio/3.-hr-i-rotacja-min.png)
+![](https://news.softwaresupp.com/img/portfolio/3.-hr-i-rotacja-min.png)
 
 Realizując projekty IT z zewnętrzną firmą (czyli nie rekrutując zespołu wewnętrznego) klienci bardzo często myślą, że daje im to tzw. “Spokój” - nie muszą się martwić o kwestie związane z HR lub o rotację projektową.
 
@@ -64,7 +64,7 @@ W praktyce zatem oczekiwania klienta w tym obszarze często przewyższają reali
 
 ## Rekrutacja - rozbieżność firm i kandydatów
 
-![](/img/portfolio/4.-rekrutacja-min.png)
+![](https://news.softwaresupp.com/img/portfolio/4.-rekrutacja-min.png)
 
 Jest jeden proces, który bardzo często decyduje o powodzeniu całego przedsięwzięcia - jest nim rekrutacja. Firmy IT jak i klienci tych firm prowadzą swoje własne rekrutacje na stanowiska do swoich zespołów.
 
@@ -78,7 +78,7 @@ Idealny kandydat lub pracownik nie istnieje, jednak połączenie weryfikacji mi�
 
 ## Jakość w procesie software development
 
-![](/img/portfolio/5.-quality-assurance-min.png)
+![](https://news.softwaresupp.com/img/portfolio/5.-quality-assurance-min.png)
 
 Kluczowym elementem procesu software development jest jego jakość. Elementów quality assurance takich jak testowanie, refinements, metodologia agile jest mnóstwo, jednak to na co warto zwrócić uwagę, to, że tak jak w większości segmentów usług i produktów jakość jest bardzo mocno powiązana z ceną.
 
@@ -88,7 +88,7 @@ Jakość jest bardzo często rezultatem ceny płaconej za daną usługę, w szcz
 
 ## Project management i business analysis - kluczowe role nietechniczne
 
-![](/img/portfolio/6.-role-w-it-min.png)
+![](https://news.softwaresupp.com/img/portfolio/6.-role-w-it-min.png)
 
 Wydawałoby się, że kluczowe role w projektach IT pełnią osoby techniczne, developerzy implementujący określone rozwiązania. Jest to kolejny mit powielany przez kolejne lata przez środowisko, który często jest powielany również przez same firmy IT.
 
@@ -98,7 +98,7 @@ Bez osób, które wiedzą jak wydać projekt do grupy docelowej, wypromować go,
 
 ## “Oszczędzanie” na usługach IT
 
-![](/img/portfolio/7.-jakość-usług-vs.-cena-min.png)
+![](https://news.softwaresupp.com/img/portfolio/7.-jakość-usług-vs.-cena-min.png)
 
 Osoby korzystające z usług IT, często nie rozumieją, że w parze z jakością idzie również cena. Nie da się tworzyć złożonych projektów technologicznych z wieloletnią perspektywą budżetowo i niskimi zasobami. To niezrozumienie prowadzi często to prób realizacji projektów niskim kosztem.
 
@@ -108,7 +108,7 @@ Realizując projekty tech, należy pamiętać, że niska cena zawsze będzie si�
 
 ## Skomplikowane umowy - intellectual property
 
-![](/img/portfolio/8.-intellectual-property-min.png)
+![](https://news.softwaresupp.com/img/portfolio/8.-intellectual-property-min.png)
 
 Na rynku IT przyjęło się, że umowy na takie usługi są złożone, skomplikowane i niezrozumiałe dla przeciętnego Kowalskiego. Co do zasady, jest to prawda, lecz dostawcy wychodząc naprzeciw potrzebom rynku, mocno uprościli podejście do klienta i w dzisiejszych czasach, można już liczyć na sensowne i zrozumiałe warunki umowne.
 
@@ -118,7 +118,7 @@ Warto jednak zauważyć, że są w umowach punkty szalenie istotne dla powodzeni
 
 ## Komercjalizacja, rozwój i skalowanie to kluczowe elementy sukcesu
 
-![](/img/portfolio/9.-skalowanie-i-rozwój-min.png)
+![](https://news.softwaresupp.com/img/portfolio/9.-skalowanie-i-rozwój-min.png)
 
 Rozpoczynając projekt IT, często nie myśli się o jego komercjalizacji oraz dynamicznym wzroście i rozwoju, czyli tzw. skalowaniu. Jeśli produkt realizujemy jedynie dla wąskiej i ograniczonej grupy użytkowników, nie powinno być to problemem, jednak często jest to błąd prowadzący do ograniczonego wzrostu projektu.
 
@@ -132,7 +132,7 @@ Aspekt komercjalizacji technologii to jednak kompletnie osobny temat o którym m
 
 ## Krótkoterminowe oczekiwania vs. długoterminowość projektu
 
-![](/img/portfolio/10.-short-term-vs-long-term-min.png)
+![](https://news.softwaresupp.com/img/portfolio/10.-short-term-vs-long-term-min.png)
 
 Realizując projekty tech, często myślimy o krótkoterminowych korzyściach i o tym co wydarzy się za tydzień, miesiąc, dwa.
 
