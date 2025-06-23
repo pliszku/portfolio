@@ -5,9 +5,9 @@ metadescription: Mimo, że Polska jest znana z wychowywania talentów
   informatycznych/technologicznych to dla większości osób wciąż zamknięta księga
   i pilnie skrywana tajemnica.
 slug: jak-dziala-it
-image: https://news.softwaresupp.com/img/portfolio/jak-dziala-it-min.png
+image: /img/portfolio/jak-dziala-it-min.png
 author: Mateusz Pliszka, Customer Consulting at SoftwareSupport
-authorimg: https://news.softwaresupp.com/img/portfolio/5f4fb33ce70c159b2ee6c6e9_matt-2-.jpeg
+authorimg: /img/portfolio/5f4fb33ce70c159b2ee6c6e9_matt-2-.jpeg
 date: 2025-06-23T20:39:11.650Z
 ---
 Rynek usług informatycznych/technologicznych to dla większości osób wciąż zamknięta księga i pilnie skrywana tajemnica.
@@ -118,7 +118,7 @@ Warto jednak zauważyć, że są w umowach punkty szalenie istotne dla powodzeni
 
 ## Komercjalizacja, rozwój i skalowanie to kluczowe elementy sukcesu
 
-![](https://news.softwaresupp.com/img/portfolio/9.-skalowanie-i-rozwój-min.png)
+![](https://news.softwaresupp.com/img/portfolio/9.Skalowanie.png)
 
 Rozpoczynając projekt IT, często nie myśli się o jego komercjalizacji oraz dynamicznym wzroście i rozwoju, czyli tzw. skalowaniu. Jeśli produkt realizujemy jedynie dla wąskiej i ograniczonej grupy użytkowników, nie powinno być to problemem, jednak często jest to błąd prowadzący do ograniczonego wzrostu projektu.
 
