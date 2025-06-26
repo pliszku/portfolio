@@ -18,7 +18,7 @@ Mimo, że Polska jest znana z wychowywania talentów kontraktowanych przez zaró
 
 Z jednej strony taki stan rzeczy jest korzystny dla samych firm zatrudniających i pośredniczących - im mniejsza wiedza kandydata na temat tego co dzieje się za zamkniętymi drzwiami, tym większa swoboda w dyktowaniu warunków zatrudnienia. Z drugiej strony prawdą jest również to, że nie wszyscy muszą rozumieć wszystko co się w tej branży dzieje i jest to wiedza “bardziej specjalistyczna”, dla tych, którzy rzeczywiście tym tematem się interesują.
 
-## Outsourcing vs. internal development
+## 1. Outsourcing vs. internal development
 
 ![](https://news.softwaresupp.com/img/portfolio/1.-internal-vs.-outsourcing-min.png)
 
@@ -42,7 +42,7 @@ Korzystanie z usług IT to bardzo często wybór podobny do tego podejmowanego o
 
 Podsumowując jeśli o projekcie myślimy “długoterminowo”, to budowa własnego zespołu technologicznego będzie zawsze opcją bardziej opłacalną - wiedza i zasoby zostają wtedy w firmie i to firma posiada 100 procentową kontrolę kosztów takiego projektu. Jeśli jednak potrzebujemy doraźnego wsparcia, lepszą opcją może się rzeczywiście okazać wynajem zasobów od kogoś innego.
 
-## Koszta i rozliczenia - opłacalność
+## 2. Koszta i rozliczenia - opłacalność
 
 ![](https://news.softwaresupp.com/img/portfolio/2.-oplacalnosc-min.png)
 
@@ -52,7 +52,7 @@ Kontraktując jednak usługi IT, warto mieć na uwadze model rozliczeń który j
 
 Dlatego standard zachodni to rozliczenie na podstawie czasu poświęconego na realizację usługi, na podstawie tzw. Manday (“dniówek”) lub ryczałtowych stawek miesięcznych. Ten model staje się również coraz bardziej popularny w Polsce wraz ze zwiększającą się świadomością polskich przedsiębiorców i klientów i zrozumieniem specyfiki projektów technologicznych.
 
-## Tzw. “to nas nie dotyczy” - HR i rotacja projektowa
+## 3. Tzw. “to nas nie dotyczy” - HR i rotacja projektowa
 
 ![](https://news.softwaresupp.com/img/portfolio/3.-hr-i-rotacja-min.png)
 
@@ -62,7 +62,7 @@ Teoretycznie jest to prawda i w przypadku współpracy outsourcingowej ciężar 
 
 W praktyce zatem oczekiwania klienta w tym obszarze często przewyższają realia, “to nas nie dotyczy” nie ma odzwierciedlenia w rzeczywistości, a zarządzanie i HR staje się tak samo istotne w przypadku współpracy z dostawcą jak przy budowaniu własnego zespołu technicznego.
 
-## Rekrutacja - rozbieżność firm i kandydatów
+## 4. Rekrutacja - rozbieżność firm i kandydatów
 
 ![](https://news.softwaresupp.com/img/portfolio/4.-rekrutacja-min.png)
 
@@ -76,7 +76,7 @@ Firmy, które prowadzą rekrutację najlepiej, potrafią zbalansować oba obszar
 
 Idealny kandydat lub pracownik nie istnieje, jednak połączenie weryfikacji miękkiej, motywacji, dopasowania do kultury organizacyjnej z wiedzą techniczną to często przepis na finalny sukces rekrutacji i tzw. “Perfect Match”.
 
-## Jakość w procesie software development
+## 5. Jakość w procesie software development
 
 ![](https://news.softwaresupp.com/img/portfolio/5.-quality-assurance-min.png)
 
@@ -86,7 +86,7 @@ Nie da się zatrudnić dobrego i jakościowego specjalisty po niskiej stawce, ta
 
 Jakość jest bardzo często rezultatem ceny płaconej za daną usługę, w szczególności w branży opartej o zasoby ludzkie, a nie o konkretny produkt lub skalowalne oprogramowanie.
 
-## Project management i business analysis - kluczowe role nietechniczne
+## 6. Project management i business analysis - kluczowe role nietechniczne
 
 ![](https://news.softwaresupp.com/img/portfolio/6.-role-w-it-min.png)
 
@@ -96,17 +96,17 @@ Oczywiście osoby techniczne pełnią role szalenie istotne - bo bez nich rozwi�
 
 Bez osób, które wiedzą jak wydać projekt do grupy docelowej, wypromować go, jak koordynować prace związane z rozwojem projektu tech lub jak budżetować projekty, żadna technologia nie miałaby prawdopodobnie prawa długoterminowo istnieć. Podobnie jak projekty nigdy nie powstałyby bez osób stricte technicznych. Takie projekty są praktycznie zawsze wynikiem/dziełem prac całego zespołu zarówno technicznych jak i biznesowych, a nie jedynie developerów.
 
-## “Oszczędzanie” na usługach IT
+## 7. UX i UI, czyli wygląd
 
 ![](https://news.softwaresupp.com/img/portfolio/7.Oszczedzanie.png)
 
-Osoby korzystające z usług IT, często nie rozumieją, że w parze z jakością idzie również cena. Nie da się tworzyć złożonych projektów technologicznych z wieloletnią perspektywą budżetowo i niskimi zasobami. To niezrozumienie prowadzi często to prób realizacji projektów niskim kosztem.
+Zanim zacznie się development praktycznie zawsze należy zaprojektować to co użytkownik zobaczy na ekranie.
 
-Taka realizacja jest oczywiście możliwa, ale zawsze niesie ze sobą dodatkowe ryzyka - jakość i skalowalność systemu, rotacja osób zaangażowanych w projekt lub finalnie - brak tzw. Market fit.
+Mimo, że praktycznie każdy przyzna, że wygląd danego rozwiązania robi różnice, w projektach technologicznych planowanie wizualne okazuje się nie być standardem.
 
-Realizując projekty tech, należy pamiętać, że niska cena zawsze będzie się wiązała z niższą jakością, są to nierozłączne elementy, podobnie jak w przypadku innych usług, np. materiały do budowy domu.
+Wiele firm lub klientów decyduje się na wyeliminowanie tego etapu/elementu i skupienie się tylko na podstawowych aspektach. To błąd, który potem bardzo ciężko naprawić, a poświęcenie odpowiedniej ilości czasu i zasobów praktycznie zawsze przekłada się na pozytywne wyniki.
 
-## Skomplikowane umowy - intellectual property
+## 8. Skomplikowane umowy - intellectual property
 
 ![](https://news.softwaresupp.com/img/portfolio/8.-intellectual-property-min.png)
 
@@ -116,7 +116,7 @@ Pewien poziom złożoności jest jednak wciąż obecny - powodem jest głównie 
 
 Warto jednak zauważyć, że są w umowach punkty szalenie istotne dla powodzenia takich projektów - takim punktem jest m. in. przekazanie praw do własności intelektualnej. Ten aspekt musi być pokryty w odpowiednim stopniu aby zapewnić klientowi otrzymanie praw do zamawianych prac po realizacji projektu, a jego brak często prowadzi do konieczności pisania kolejnych umów lub konfliktów na linii dostawca klient.
 
-## Komercjalizacja, rozwój i skalowanie to kluczowe elementy sukcesu
+## 9. Komercjalizacja, rozwój i skalowanie to kluczowe elementy sukcesu
 
 ![](https://news.softwaresupp.com/img/portfolio/9.Skalowanie.png)
 
@@ -130,7 +130,7 @@ Często produkty realizuje się również bez konkretnego planu na jego komercja
 
 Aspekt komercjalizacji technologii to jednak kompletnie osobny temat o którym można by napisać osobny materiał. Warto jednak pamiętać o tym, że na rynku pozostają i finansują się tylko te produkty które mają swoje grono realnie płacących klientów.
 
-## Krótkoterminowe oczekiwania vs. długoterminowość projektu
+## 10. Krótkoterminowe oczekiwania vs. długoterminowość projektu
 
 ![](https://news.softwaresupp.com/img/portfolio/10.-short-term-vs-long-term-min.png)
 
