@@ -10,6 +10,8 @@ author: Mateusz Pliszka, Customer Consulting at SoftwareSupport
 authorimg: /img/portfolio/5f4fb33ce70c159b2ee6c6e9_matt-2-.jpeg
 date: 2025-06-23T20:39:11.650Z
 ---
+<iframe width="auto" height="auto" src="https://www.youtube.com/embed/eXKIdGWlq2I?si=ChA1FFrHps7PF00N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Rynek usług informatycznych/technologicznych to dla większości osób wciąż zamknięta księga i pilnie skrywana tajemnica.
 
 Mimo, że Polska jest znana z wychowywania talentów kontraktowanych przez zarówno USA i Europę Zachodnią i mimo, że wciąż kojarzona jest jako jeden z “liderów” tzw. outsourcingu technologicznego, mam wrażenie, że wciąż mało osób zdaje sobie sprawę jak ten rynek rzeczywiście działa i funkcjonuje.
