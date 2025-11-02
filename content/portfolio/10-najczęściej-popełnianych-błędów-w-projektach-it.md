@@ -16,7 +16,7 @@ Błędy w zarządzaniu projektami IT nie polegają najczęściej na technikaliac
 
 ## 1. Brak podłoża biznesowego - inwestowanie w development przed weryfikacją biznesową
 
-![](/img/portfolio/1.-business-min.png)
+![](https://news.softwaresupp.com/img/portfolio/1.-business-min.png)
 
 Najczęstszym błędem jest brak podłoża biznesowego w danym projekcie technologicznym - czyli budowanie software’u, który nie jest potrzebny biznesowo i nie ma uzasadnienia biznesowego lub finansowego - w skrócie nie generuje pieniędzy dla firmy.\
 \
@@ -26,7 +26,7 @@ Mało tego, nawet duże firmy, wdrażając złożoną technologię, nie zaczynaj
 
 ## 2. Overdevelopment i komplikowanie, czyli development zbyt dużej ilości funkcjonalności
 
-![](/img/portfolio/2.-overdevelopment-min.png)
+![](https://news.softwaresupp.com/img/portfolio/2.-overdevelopment-min.png)
 
 Wrogiem sukcesu technologii jest zbyt szeroka wizja. Najlepsze programy to takie, które rozwiązują wąski i specyficzny problem. Bardzo często zdarza się, że w ferworze wizji i chęci rozwoju, dokłada się do oprogramowania masę niepotrzebnych ficzerów, które jedynie utrudniają użytkowanie oprogramowania.\
 \
@@ -36,7 +36,7 @@ Budując software, należy pamiętać o tym aby skupić się na kluczowych funkc
 
 ## 3. Brak weryfikacji wypuszczanych funkcjonalności na użytkownikach
 
-![](/img/portfolio/3.-weryfikacja-min.png)
+![](https://news.softwaresupp.com/img/portfolio/3.-weryfikacja-min.png)
 
 Budując projekt technologiczny najtrudniejszą barierą psychologiczną jest uciekanie od tzw. “Zderzenia z rzeczywistością”, czyli weryfikacji założeń i funkcjonalności na rzeczywistych użytkownikach systemu.\
 \
@@ -46,7 +46,7 @@ Na koniec dnia, w szczególności w projektach B2C, to użytkownicy systemu decy
 
 ## 4. Omijanie procesu MVP, czyli Minimum Viable Product
 
-![](/img/portfolio/4.-mvp-min.png)
+![](https://news.softwaresupp.com/img/portfolio/4.-mvp-min.png)
 
 Wiele projektów, w szczególności tych wysokobudżetowych i projektów B2B, często ignoruje potrzebę planowania produktu zgodnie z zasadami MVP - przecież jeśli projekt został już zabudżetowany, to jego adaptacja i przydatność jest potwierdzona.\
 \
@@ -56,7 +56,7 @@ Omijając proces MVP, narażasz się na niepotrzebne koszta i nieefektywne inwes
 
 ## 5. Wyeliminowanie procesu testowania
 
-![](/img/portfolio/5.-deploy-min.png)
+![](https://news.softwaresupp.com/img/portfolio/5.-deploy-min.png)
 
 W projektach o niskim budżecie często pomija się proces testowania oprogramowania, czy to w modelu manualnym, czy automatycznym.\
 \
@@ -66,7 +66,7 @@ Testowanie wbrew pozorom nie musi również być bardzo kosztowne - można je zo
 
 ## 6. Przeciąganie sprintów i wydań w nieskończoność
 
-![](/img/portfolio/6.-sprinty-min.png)
+![](https://news.softwaresupp.com/img/portfolio/6.-sprinty-min.png)
 
 Będąc niedoświadczonym liderem prowadzącym projekty, łatwo dać się zwieść iluzji o niekończących się pracach, testach i poprawkach. To bardzo często argumenty osób technicznych za którymi kryje się chęć przedłużania sprintów i deploymentów.\
 \
@@ -76,7 +76,7 @@ W ten sposób zapewniamy produktowi postęp i rozwój, jednocześnie pamiętają
 
 ## 7. Brak budżetowania finansowego projektu
 
-![](/img/portfolio/7.-budzetowanie-min.png)
+![](https://news.softwaresupp.com/img/portfolio/7.-budzetowanie-min.png)
 
 Wiele projektów, nawet jeśli ma swoje budżety technologiczne, są one najczęściej niedoszacowane. Budowa technologii kosztuje duże pieniądze - a rozwiązania budżetowe rzadko znajdują swoje odzwierciedlenie w praktyce.\
 \
@@ -86,7 +86,7 @@ W praktyce, jedynie Ci którzy mają największe doświadczenie potrafią realni
 
 ## 8.  Skalowanie niedziałających systemów i procesów
 
-![](/img/portfolio/8.-scaling-min.png)
+![](https://news.softwaresupp.com/img/portfolio/8.-scaling-min.png)
 
 Budując projekty technologicze łatwo ulec  tzw. Iluzji ego i chęci jak najszybszego rozwoju, w szczególności widząc pierwszą sprzedaż i odnosząc pierwsze sukcesy.\
 \
@@ -98,7 +98,7 @@ W ten sposób jesteśmy pewni, że automatyzujemy i skalujemy procesy, które rz
 
 ## 9. Nieefektywne zarządzanie zasobami ludzkimi, np. przeładowanie obowiązków 1 osoby
 
-![](/img/portfolio/9.-hr-min.png)
+![](https://news.softwaresupp.com/img/portfolio/9.-hr-min.png)
 
 Osoby z mniejszym doświadczeniem często niedoszacowują ilości czasu potrzebnego do developmentu danego produktu lub rozwiązania.\
 \
@@ -108,7 +108,7 @@ W praktyce to nierealne, takie osoby nie istnieją, a oczekiwania bardzo często
 
 ## 10. Brak rozróżnienia pomiędzy produktem B2B & B2C
 
-![](/img/portfolio/10.-b2b-b2c-min.png)
+![](https://news.softwaresupp.com/img/portfolio/10.-b2b-b2c-min.png)
 
 Produkty B2B i B2C to całkowicie oddzielne segmenty produktów i mają zupełnie inny cel/przeznaczenie.\
 \
