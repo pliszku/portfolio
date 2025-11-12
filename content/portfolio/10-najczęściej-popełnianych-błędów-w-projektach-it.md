@@ -10,6 +10,8 @@ author: Mateusz Pliszka, Customer Consulting at SoftwareSupport
 authorimg: /img/portfolio/5f4fb33ce70c159b2ee6c6e9_matt-2-.jpeg
 date: 2025-11-02T20:52:11.856Z
 ---
+<iframe width="auto" height="auto" src="https://www.youtube.com/embed/gonxXagM_a4?si=RVao-1zfWoyDnylX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Projekty IT są jednymi z najtrudniejszych do prowadzenia, ze względu na ich specjalistyczną specyfikę oraz specyficzny profil osób pracujących nad realnym wdrożeniem systemu lub oprogramowania.
 
 Błędy w zarządzaniu projektami IT nie polegają najczęściej na technikaliach lub na zastosowaniu nieodpowiedniej technologii - polegają głównie na dopasowaniu do kwestii biznesowych i to właśnie na tym skupimy się w tym materiale.
