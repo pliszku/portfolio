@@ -7,7 +7,7 @@ metadescription: W rzeczywistości wycena projektów i ich budżetowanie to bard
   jest tzw. proces budżetowania, który służy szacowaniu kosztów i zacieśnia
   współpracę pomiędzy klientem, a dostawcą.
 slug: budzetowanie-finansowe-projektow
-image: /img/portfolio/na-czym-polega-budżetowanie-min.png
+image: /img/portfolio/na-czym-polega-budzetowanie-min.png
 author: Mateusz Pliszka, Customer Consulting at SoftwareSupport
 authorimg: /img/portfolio/5f4fb33ce70c159b2ee6c6e9_matt-2-.jpeg
 date: 2025-12-18T15:09:00.340Z
@@ -22,7 +22,7 @@ Poniżej kilka wskazówek, które mogą posłużyć jako wskazówka:
 
 ## 1. Określ oczekiwania finansowe swojego projektu
 
-![](https://news.softwaresupp.com/img/portfolio/oczekiwania-odnośnie-zwrotu-min.png)
+![](https://news.softwaresupp.com/img/portfolio/oczekiwania-odnosnie-zwrotu-min.png)
 
 Zamiast zaczynać od kosztów i ceny projektu - pomyśl czego oczekujesz od danego projektu - czyli jakie korzyści finansowe ma przynieść. Bardzo często wychodząc od potrzeb i oczekiwań finansowych jesteśmy w stanie policzyć ile na danym projekcie zarobimy (jaki jest potencjał), a co za tym idzie ile w dany projekt możemy zainwestować - co finalnie pozwala określić budżet.
 
