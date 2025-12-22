@@ -12,6 +12,8 @@ author: Mateusz Pliszka, Customer Consulting at SoftwareSupport
 authorimg: /img/portfolio/5f4fb33ce70c159b2ee6c6e9_matt-2-.jpeg
 date: 2025-12-18T15:09:00.340Z
 ---
+<iframe width="auto" height="auto" src="https://www.youtube.com/embed/bwBAtUDs8Kc?si=lqt1ZpUmf5vSK4Go" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Bardzo często realizując dany projekt, oczekujemy jego wyceny i dokładnej estymacji. Nie byłbym w stanie zliczyć ilości “przegranych” projektów, gdzie powodem ich pozornego przegrania był brak wskazania dokładnej kwoty/kosztów danego projektu - to dlatego, że klient oczekuje stałej kwoty za realizację określonych zadań.
 
 Jak to jednak wygląda w praktyce? W rzeczywistości wycena projektów i ich budżetowanie to bardzo złożony proces, a bardzo często nie jest możliwe wskazanie stałych kosztów ich realizacji.
